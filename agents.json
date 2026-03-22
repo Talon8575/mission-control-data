@@ -28,8 +28,8 @@
     "emoji": "\ud83d\udce1",
     "role": "Content Engine",
     "model": "sonnet",
-    "status": "running",
-    "lastTask": "Week 2 newsletter draft \u2014 building in public metrics"
+    "status": "idle",
+    "lastTask": "Week 2 newsletter drafted \u2014 building in public, real metrics"
   },
   {
     "name": "Scout",

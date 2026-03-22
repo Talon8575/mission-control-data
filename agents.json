@@ -12,8 +12,8 @@
     "emoji": "\ud83d\udc0d",
     "role": "Market Intelligence",
     "model": "haiku",
-    "status": "running",
-    "lastTask": "Competitive intel: Top 5 healthcare AI automation agencies"
+    "status": "idle",
+    "lastTask": "Competitive intel delivered: Top 5 healthcare AI agencies analyzed"
   },
   {
     "name": "Hawk",

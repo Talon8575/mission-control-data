@@ -1,0 +1,90 @@
+[
+  {
+    "timestamp": "2026-03-22T22:33:12Z",
+    "agent": "Talon",
+    "emoji": "\ud83e\udd85",
+    "action": "MERGED",
+    "detail": "Kanban board merged into Mission Control \u2014 single unified dashboard",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-22T22:27:03Z",
+    "agent": "Talon",
+    "emoji": "\ud83e\udd85",
+    "action": "SYSTEM",
+    "detail": "Mission Control auto-update script deployed",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-22T22:26:35Z",
+    "agent": "Talon",
+    "emoji": "\ud83e\udd85",
+    "action": "DEPLOYED",
+    "detail": "Mission Control updated \u2014 added Activity Feed + Outreach Pipeline panels",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-22T22:21:35Z",
+    "agent": "Talon",
+    "emoji": "\ud83e\udd85",
+    "action": "DNS",
+    "detail": "Added tracking CNAME records (sf \u2192 p.tracktickle.com) on 5 domains via Namecheap API",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-22T22:16:35Z",
+    "agent": "Talon",
+    "emoji": "\ud83e\udd85",
+    "action": "WARMUP",
+    "detail": "Warmup started on 10 mailboxes across 5 domains \u2014 14 day warmup period",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-03-22T22:11:35Z",
+    "agent": "Talon",
+    "emoji": "\ud83e\udd85",
+    "action": "MAILBOX",
+    "detail": "10 Mailforge mailboxes exported to Salesforge: matt@ and outreach@ on 5 HCIP domains",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-22T21:56:35Z",
+    "agent": "Talon",
+    "emoji": "\ud83e\udd85",
+    "action": "SEQUENCE",
+    "detail": "Drafted 4-step cold email sequence for healthcare automation outreach",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-03-22T20:26:35Z",
+    "agent": "Talon",
+    "emoji": "\ud83e\udd85",
+    "action": "DOMAIN",
+    "detail": "Verified DNS records (MX, SPF, DKIM, DMARC) on talonbuild.com, talonoperations.com, hcippartners.com, hcipsolutions.com, hcipconsulting.com",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-22T19:26:35Z",
+    "agent": "Viper",
+    "emoji": "\ud83d\udc0d",
+    "action": "PRICE CHECK",
+    "detail": "Crypto price monitoring \u2014 BTC, ETH, SOL, LINK prices checked",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-03-22T14:26:35Z",
+    "agent": "Talon",
+    "emoji": "\ud83e\udd85",
+    "action": "BRIEF",
+    "detail": "Morning brief delivered \u2014 Day 9 status,  revenue, warmup/outreach prep",
+    "type": "info"
+  },
+  {
+    "timestamp": "2026-03-22T12:26:35Z",
+    "agent": "Scout",
+    "emoji": "\ud83d\udd2d",
+    "action": "SCAN",
+    "detail": "Daily property scan completed \u2014 checking AR/OK markets for deals",
+    "type": "info"
+  }
+]

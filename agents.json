@@ -36,8 +36,8 @@
     "emoji": "\ud83d\udd2d",
     "role": "Property Scanner",
     "model": "haiku",
-    "status": "running",
-    "lastTask": "Property scan: AR/OK/LA deals under $100K"
+    "status": "idle",
+    "lastTask": "Property scan: 10 deals in AR/OK/LA, top 3 actionable targets"
   },
   {
     "name": "Apex",

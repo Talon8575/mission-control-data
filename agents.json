@@ -1,0 +1,8 @@
+[
+  {"name": "Talon", "emoji": "🦅", "role": "CEO / Orchestrator", "model": "opus", "status": "running", "lastTask": "Salesforge cold email setup — 10 mailboxes, warmup, sequence draft"},
+  {"name": "Viper", "emoji": "🐍", "role": "Market Intelligence", "model": "haiku", "status": "idle", "lastTask": "Price monitoring active via cron"},
+  {"name": "Hawk", "emoji": "🦅", "role": "Healthcare Sales", "model": "haiku", "status": "idle", "lastTask": "300 prospects ready, awaiting email enrichment"},
+  {"name": "Echo", "emoji": "📡", "role": "Content Engine", "model": "sonnet", "status": "idle", "lastTask": "Newsletter + content pipeline ready"},
+  {"name": "Scout", "emoji": "🔭", "role": "Property Scanner", "model": "haiku", "status": "idle", "lastTask": "Daily scan active via cron"},
+  {"name": "Apex", "emoji": "🏔️", "role": "Men's Health", "model": "haiku", "status": "idle", "lastTask": "Awaiting activation"}
+]

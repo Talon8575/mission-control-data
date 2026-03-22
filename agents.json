@@ -5,7 +5,7 @@
     "role": "CEO / Orchestrator",
     "model": "opus",
     "status": "running",
-    "lastTask": "Dispatching all agents + PM framework upgrade"
+    "lastTask": "All 5 agents dispatched + completed \u2014 Mission Control live"
   },
   {
     "name": "Viper",
@@ -44,7 +44,7 @@
     "emoji": "\ud83c\udfd4\ufe0f",
     "role": "Men's Health",
     "model": "sonnet",
-    "status": "running",
-    "lastTask": "OK Men's Health content strategy + 3 blog drafts"
+    "status": "idle",
+    "lastTask": "OK Men's Health: 30-day content calendar + 3 blog drafts"
   }
 ]

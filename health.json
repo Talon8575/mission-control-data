@@ -1,13 +1,8 @@
 {
-  "gateway": "running",
+  "gateway": "1
+running",
   "n8n": "running",
   "openRouterBalance": 29.05,
-  "lcmDatabaseSize": "16M",
-  "uptime": "9 days",
-  "salesforge": {
-    "status": "active",
-    "mailboxes": 10,
-    "trackingDomains": "pending",
-    "warmup": "active"
-  }
+  "lcmDatabaseSize": "",
+  "uptime": "8 days"
 }

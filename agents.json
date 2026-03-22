@@ -20,8 +20,8 @@
     "emoji": "\ud83e\udd85",
     "role": "Healthcare Sales",
     "model": "sonnet",
-    "status": "running",
-    "lastTask": "Cold email sequence \u2014 4-step + 5 A/B variants + objection handler"
+    "status": "idle",
+    "lastTask": "Cold email sequence finalized \u2014 4-step + 5 A/B variants + objection handler"
   },
   {
     "name": "Echo",

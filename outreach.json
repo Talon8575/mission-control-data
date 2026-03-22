@@ -1,0 +1,14 @@
+{
+  "mailboxes": 10,
+  "domainsActive": 5,
+  "warmupStatus": "active",
+  "warmupDaysRemaining": 14,
+  "dailyCapacity": 300,
+  "sequencesDraft": 1,
+  "sequencesActive": 0,
+  "prospectsReady": 300,
+  "prospectsEnriched": 0,
+  "emailsSent": 0,
+  "replies": 0,
+  "meetings": 0
+}

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T21:30:13Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both healthy \u2014 Claude Max token active (static), OpenRouter key valid (.29 monthly usage, no limit).",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T21:15:48Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -390,13 +398,5 @@
     "action": "CRON",
     "detail": "Hourly Activity Update: All cron clean (Vercel 20 deployments ready, models healthy, Viper stable,  revenue) \u2014 distribution content staged, awaiting manual execution",
     "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T15:06:03Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: API key not configured \u2014 check failed",
-    "type": "error"
   }
 ]

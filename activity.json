@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T18:01:26Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udc26",
+    "action": "X-GROWTH",
+    "detail": "X Growth OS: Posted themed tweet",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T18:00:41Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -390,13 +398,5 @@
     "action": "CRON",
     "detail": "Community Intel Scan: Memory stack wins (Obsidian+QMD+SQLite), GitHub auth friction, Lossless Claw demand, Felix agent k revenue signal, enterprise hardening gap",
     "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T12:09:16Z",
-    "agent": "Scout",
-    "emoji": "\ud83c\udfe0",
-    "action": "CRON",
-    "detail": "Property Scanner: Scanner timed out, deployed latest report (2026-03-22) to realestate.operationtalon.com",
-    "type": "error"
   }
 ]

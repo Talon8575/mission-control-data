@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T08:30:16Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both providers healthy \u2014 Claude Max token active (static), OpenRouter valid (.53 usage, no limits hit)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T08:15:33Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -390,13 +398,5 @@
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: 3 failed deploys (mission-control) \u2014 ESLint error: unused '_error' variable in global-error.tsx",
     "type": "error"
-  },
-  {
-    "timestamp": "2026-03-23T02:30:25Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: All deployments healthy (3x mission-control READY)",
-    "type": "success"
   }
 ]

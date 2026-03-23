@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T03:15:42Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 3x mission-control build failures (unused var + type errors); 6x READY deployments",
+    "type": "error"
+  },
+  {
     "timestamp": "2026-03-23T03:15:22Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcca",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udce1",
     "action": "SYNC",
     "detail": "All 9 MC data files now push live to GitHub \u2014 full dashboard sync",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-22T23:00:27Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: mission-control READY \u2014 no errors or failures detected",
     "type": "success"
   }
 ]

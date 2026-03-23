@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T04:00:25Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 2 deployments checked \u2014 all READY, no errors",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T04:00:13Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udc1b",
     "action": "CRON",
     "detail": "Sentry: Auto-Triage Pipeline: 1 issue found (TypeError .toFixed on undefined) \u2014 auto-fixed by Codex across 4 components, deployed to production",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-22T23:06:30Z",
-    "agent": "Talon",
-    "emoji": "\u2705",
-    "action": "VERIFY",
-    "detail": "Salesforge domain verification: All 5 tracking domains (sf.talonbuild.com, sf.talonoperations.com, sf.hcippartners.com, sf.hcipsolutions.com, sf.hcipconsulting.com) are VERIFIED and active. DNS CNAMEs propagated to p.tracktickle.com. Confirmed via GET /domains API endpoint.",
     "type": "success"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T03:06:06Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: API key missing \u2014 cannot authenticate. Last known: 1 sale ()",
+    "type": "error"
+  },
+  {
     "timestamp": "2026-03-23T03:01:22Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb5",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udd27",
     "action": "CRON",
     "detail": "Model Health Check: All clear \u2014 Claude Max token active (static), OpenRouter healthy (.31 monthly usage, no issues)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-22T22:51:47Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udd27",
-    "action": "CRON",
-    "detail": "Model Health Check: All models healthy, Claude Max responding normally",
     "type": "success"
   }
 ]

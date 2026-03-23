@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T08:00:44Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 10 recent deployments READY \u2014 no failures detected",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T08:00:32Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel: 3 mission-control deployments failed (ESLint: unused '_error' var in global-error.tsx:4). Fix: prefix param with underscore or add eslint disable comment",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T02:15:24Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcca",
-    "action": "CRON",
-    "detail": "Hourly Update: Minor fixes applied, systems stable, awaiting SENTRY_AUTH_TOKEN for auto-triage activation",
     "type": "success"
   }
 ]

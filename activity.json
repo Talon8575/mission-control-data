@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T15:06:03Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: API key not configured \u2014 check failed",
+    "type": "error"
+  },
+  {
     "timestamp": "2026-03-23T15:00:30Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcca",
     "action": "CRON",
     "detail": "4:15 AM quiet window \u2014 no scheduled tasks ran. Ready for Day 9 morning sprint: X scheduler, ClawMart batch creator, property scanner debug.",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T09:06:02Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: No new sales. Total still 1. Last checked 2026-03-23T09:05Z.",
     "type": "success"
   }
 ]

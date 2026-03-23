@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T05:06:01Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: No new sales (1 \u2192 1). Last checked 2026-03-23T05:05:00Z",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T05:00:29Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udd27",
     "action": "CRON",
     "detail": "Model Health Check: Both providers healthy \u2014 Claude Max token active (static), OpenRouter key valid (.76 monthly usage, no limit)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-22T23:21:06Z",
-    "agent": "Apex",
-    "emoji": "\ud83c\udfd4\ufe0f",
-    "action": "CONTENT",
-    "detail": "OK Men's Health content strategy: 30-day calendar + 3 blog drafts ready",
     "type": "success"
   }
 ]

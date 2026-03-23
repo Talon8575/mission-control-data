@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T17:06:45Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: 1 sale total (no change since 15:05 UTC)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T17:00:29Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcca",
     "action": "CRON",
     "detail": "Hourly Activity Update: Viper silent (all positions +1.9% avg), Sentry fix deployed, Vercel 10/10 healthy, sales stable at . Continuing hourly ops.",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T11:05:59Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 total sale (no change since 9:05 AM CT). Operator Playbook still holding steady.",
     "type": "success"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T04:15:44Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd0d",
+    "action": "DOGFOOD",
+    "detail": "Dogfood audit: 25 products reviewed. X Growth OS engine live. 12 n8n workflows built. 40% gap identified and being fixed.",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T04:15:39Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udce7",
     "action": "ENRICH",
     "detail": "Scraped emails from 116/189 prospect websites \u2014 8 valid emails found (48% total coverage)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-22T23:15:35Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: mission-control READY (1 deployment, no errors)",
     "type": "success"
   }
 ]

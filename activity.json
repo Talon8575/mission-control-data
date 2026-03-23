@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T12:09:16Z",
+    "agent": "Scout",
+    "emoji": "\ud83c\udfe0",
+    "action": "CRON",
+    "detail": "Property Scanner: Scanner timed out, deployed latest report (2026-03-22) to realestate.operationtalon.com",
+    "type": "error"
+  },
+  {
     "timestamp": "2026-03-23T12:06:21Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udd27",
     "action": "CRON",
     "detail": "Model Health Check: Both healthy \u2014 Claude Max token active (static), OpenRouter key active (.23 monthly usage)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T05:45:09Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: No deployments in past hour\u2014all systems nominal",
     "type": "success"
   }
 ]

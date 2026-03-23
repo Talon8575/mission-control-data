@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T11:30:30Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 10 recent deployments healthy (landing-page, mission-control) \u2014 READY state",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T11:30:14Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: All 10 recent deployments READY \u2014 landing-page and mission-control projects healthy",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T05:15:47Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcca",
-    "action": "CRON",
-    "detail": "Hourly Activity Update: No activity last hour (12:15 AM), queue loaded, system idle, morning brief pending at 6:30 AM",
     "type": "success"
   }
 ]

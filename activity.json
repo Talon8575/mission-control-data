@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T04:30:24Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 2 deployments READY, all healthy",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T04:30:11Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udd2d",
     "action": "SCAN",
     "detail": "Property scan: 10 deals found in AR/OK/LA \u2014 top 3 actionable targets identified",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-22T23:18:32Z",
-    "agent": "Viper",
-    "emoji": "\ud83d\udc0d",
-    "action": "INTEL",
-    "detail": "Competitive intel brief: Top 5 healthcare AI automation agencies analyzed",
     "type": "success"
   }
 ]

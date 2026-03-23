@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T19:15:55Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcca",
+    "action": "CRON",
+    "detail": "Hourly Update: X flywheel running, newsletter ready, awaiting approval for LinkedIn + manual distribution phase",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T19:06:49Z",
     "agent": "Talon",
     "emoji": "\ud83d\uded2",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcca",
     "action": "CRON",
     "detail": "Hourly Activity Update: No new sales/content last hour \u2014 all systems green, focusing on scanner fix + X automation",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T13:05:59Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 total sale (no change), Operator Playbook holding steady",
     "type": "success"
   }
 ]

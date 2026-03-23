@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T09:30:14Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both healthy \u2014 Claude Max token static/active, OpenRouter key valid (.46 monthly usage, no limits)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T09:15:54Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -390,13 +398,5 @@
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: 3x mission-control builds failed (lint_or_type_error) \u2014 unused variable _error in app/global-error.tsx",
     "type": "error"
-  },
-  {
-    "timestamp": "2026-03-23T03:30:13Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udd27",
-    "action": "CRON",
-    "detail": "Model Health Check: Both providers healthy \u2014 Claude Max token static/active, OpenRouter key active (.12 usage, no limits hit)",
-    "type": "success"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T05:45:09Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: No deployments in past hour\u2014all systems nominal",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T05:30:24Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcca",
     "action": "CRON",
     "detail": "Hourly: No new content (idle post-dispatch test). Cold email warmup running on 5 domains, 300 capacity staged. Awaiting email enrichment for Salesforge sequences.",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T00:00:26Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: All deployments READY\u2014mission-control passing health checks",
     "type": "success"
   }
 ]

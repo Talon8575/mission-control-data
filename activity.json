@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T14:01:11Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both healthy \u2014 Claude Max token static/active, OpenRouter key valid (.14 total usage)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T14:00:46Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcf0",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udd27",
     "action": "CRON",
     "detail": "Model Health Check: Both healthy \u2014 Claude Max token static/active, OpenRouter valid (.02 monthly usage, no limit)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T08:00:12Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcbe",
-    "action": "CRON",
-    "detail": "Memory Consolidation Backup: 2 AM job ran successfully (git commit b629ce0 + file updated 02:02)",
     "type": "success"
   }
 ]

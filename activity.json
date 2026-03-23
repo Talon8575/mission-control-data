@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T02:30:25Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All deployments healthy (3x mission-control READY)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T02:30:12Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -389,14 +397,6 @@
     "emoji": "\ud83e\udd85",
     "action": "DEPLOYED",
     "detail": "Mission Control updated \u2014 added Activity Feed + Outreach Pipeline panels",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-22T22:21:35Z",
-    "agent": "Talon",
-    "emoji": "\ud83e\udd85",
-    "action": "DNS",
-    "detail": "Added tracking CNAME records (sf \u2192 p.tracktickle.com) on 5 domains via Namecheap API",
     "type": "success"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T09:06:02Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: No new sales. Total still 1. Last checked 2026-03-23T09:05Z.",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T09:00:28Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -390,13 +398,5 @@
     "action": "CRON",
     "detail": "Hourly Activity: VIPER holding (no exits), Vercel build error flagged, costs green, 1 sale logged",
     "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T03:06:06Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: API key missing \u2014 cannot authenticate. Last known: 1 sale ()",
-    "type": "error"
   }
 ]

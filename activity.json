@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T01:30:29Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: mission-control build fails on lint error (unused _error var in global-error.tsx:4). 3 recent deploys ERROR, latest 3 READY",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T01:30:14Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -389,14 +397,6 @@
     "emoji": "\ud83e\udd85",
     "action": "BRIEF",
     "detail": "Morning brief delivered \u2014 Day 9 status,  revenue, warmup/outreach prep",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-03-22T12:26:35Z",
-    "agent": "Scout",
-    "emoji": "\ud83d\udd2d",
-    "action": "SCAN",
-    "detail": "Daily property scan completed \u2014 checking AR/OK markets for deals",
     "type": "info"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T09:30:30Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 5 recent deployments READY, no failures detected",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T09:30:14Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -390,13 +398,5 @@
     "action": "DEPLOY",
     "detail": "Autonomous ops deployed. Identity updated. 11 X tweets posted. Queue loaded. Night shift starts 1 AM.",
     "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T03:30:37Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: 3x mission-control builds failed (lint_or_type_error) \u2014 unused variable _error in app/global-error.tsx",
-    "type": "error"
   }
 ]

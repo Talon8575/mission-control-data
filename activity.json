@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T07:30:28Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: No deployments in last 15min. API OK, all systems nominal.",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T07:30:14Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: 3 deployments checked, all READY (mission-control production)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T01:30:29Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: mission-control build fails on lint error (unused _error var in global-error.tsx:4). 3 recent deploys ERROR, latest 3 READY",
     "type": "success"
   }
 ]

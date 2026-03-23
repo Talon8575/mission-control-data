@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T09:00:28Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 10 recent deployments READY \u2014 landing-page + mission-control healthy",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T09:00:13Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -390,13 +398,5 @@
     "action": "CRON",
     "detail": "ClawMart Sales Monitor: API key missing \u2014 cannot authenticate. Last known: 1 sale ()",
     "type": "error"
-  },
-  {
-    "timestamp": "2026-03-23T03:01:22Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb5",
-    "action": "CRON",
-    "detail": "Daily Cost Report: .68 today, .69/month (within budget)",
-    "type": "success"
   }
 ]

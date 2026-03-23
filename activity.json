@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T03:30:37Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 3x mission-control builds failed (lint_or_type_error) \u2014 unused variable _error in app/global-error.tsx",
+    "type": "error"
+  },
+  {
     "timestamp": "2026-03-23T03:30:13Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udd27",
     "action": "FIX",
     "detail": "Fixed 4 broken crons: meme-monitor (delivery config), ClawMart Sales Monitor (timeout + delivery), Mission Control Update (delivery target), Nightly Consolidation (message length)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-22T23:02:05Z",
-    "agent": "Talon",
-    "emoji": "\u2705",
-    "action": "VERIFY",
-    "detail": "Salesforge tracking CNAMEs: All 5 domains (talonbuild.com, talonoperations.com, hcippartners.com, hcipsolutions.com, hcipconsulting.com) have correct sf.{domain} \u2192 p.tracktickle.com CNAME records. DNS verified \u2713. API reports domains not registered in Salesforge yet (may need manual setup in Salesforge dashboard).",
     "type": "success"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T07:01:55Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both healthy \u2014 Claude Max token static/valid, OpenRouter active (.20 usage, no limits)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T07:01:23Z",
     "agent": "Talon",
     "emoji": "\u2699\ufe0f",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcc8",
     "action": "CRON",
     "detail": "Price Alert: BTC ,643 below K threshold, ETH ,046 OK",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T01:04:20Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udc38",
-    "action": "CRON",
-    "detail": "meme-monitor: All clear, no alerts",
     "type": "success"
   }
 ]

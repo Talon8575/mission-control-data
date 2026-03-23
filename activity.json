@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T23:00:22Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 2 deployments checked, all READY (hcip-billing latest 2 builds successful)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T23:00:12Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: All 10 recent deployments READY - hcip-billing, property-report, landing-page, mission-control healthy",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T16:30:30Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: All 10 recent deployments READY \u2014 hcip-billing, property-report, landing-page, mission-control \u2014 no errors detected",
     "type": "success"
   }
 ]

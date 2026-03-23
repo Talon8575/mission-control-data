@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T13:05:59Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: 1 total sale (no change), Operator Playbook holding steady",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T13:00:39Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\uded2",
     "action": "CRON",
     "detail": "ClawMart Sales Monitor: No new sales (total: 1, unchanged)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T07:02:11Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: All 20 recent deployments READY (2x landing-page, 18x mission-control). No errors detected.",
     "type": "success"
   }
 ]

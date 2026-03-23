@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T04:45:12Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 47 deployments READY (last 24h) \u2014 no errors detected",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T04:30:24Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udce1",
     "action": "CONTENT",
     "detail": "Week 2 newsletter drafted \u2014 building in public, real metrics, Gumroad CTA",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-22T23:18:46Z",
-    "agent": "Scout",
-    "emoji": "\ud83d\udd2d",
-    "action": "SCAN",
-    "detail": "Property scan: 10 deals found in AR/OK/LA \u2014 top 3 actionable targets identified",
     "type": "success"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T01:45:06Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 3 deployments checked, all READY (mission-control production)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T01:30:29Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udc0d",
     "action": "PRICE CHECK",
     "detail": "Crypto price monitoring \u2014 BTC, ETH, SOL, LINK prices checked",
-    "type": "info"
-  },
-  {
-    "timestamp": "2026-03-22T14:26:35Z",
-    "agent": "Talon",
-    "emoji": "\ud83e\udd85",
-    "action": "BRIEF",
-    "detail": "Morning brief delivered \u2014 Day 9 status,  revenue, warmup/outreach prep",
     "type": "info"
   }
 ]

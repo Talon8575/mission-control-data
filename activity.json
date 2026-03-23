@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T08:00:32Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both healthy \u2014 Claude Max token static/active, OpenRouter valid (.02 monthly usage, no limit)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T08:00:12Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcbe",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcca",
     "action": "CRON",
     "detail": "Hourly Update: Minor fixes applied, systems stable, awaiting SENTRY_AUTH_TOKEN for auto-triage activation",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T02:00:49Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: Fixed 3 lint failures in mission-control (removed unused error param from global-error.tsx)",
     "type": "success"
   }
 ]

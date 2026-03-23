@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T22:30:28Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 1 deployment checked, all READY - healthcare-landing prod deployment successful",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T22:30:14Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: 2 deployments checked (hcip-billing) \u2014 all READY, no failures",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T16:15:24Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcca",
-    "action": "CRON",
-    "detail": "Hourly: X tweet posted, 0 sales, all systems green\u2014distribution content staged for Matt",
     "type": "success"
   }
 ]

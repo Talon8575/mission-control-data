@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T02:15:46Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel: 3 mission-control deployments failed (ESLint: unused '_error' var in global-error.tsx:4). Fix: prefix param with underscore or add eslint disable comment",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T02:15:24Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcca",
@@ -390,13 +398,5 @@
     "action": "WARMUP",
     "detail": "Warmup started on 10 mailboxes across 5 domains \u2014 14 day warmup period",
     "type": "info"
-  },
-  {
-    "timestamp": "2026-03-22T22:11:35Z",
-    "agent": "Talon",
-    "emoji": "\ud83e\udd85",
-    "action": "MAILBOX",
-    "detail": "10 Mailforge mailboxes exported to Salesforge: matt@ and outreach@ on 5 HCIP domains",
-    "type": "success"
   }
 ]

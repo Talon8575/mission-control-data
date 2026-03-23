@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T16:15:24Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcca",
+    "action": "CRON",
+    "detail": "Hourly: X tweet posted, 0 sales, all systems green\u2014distribution content staged for Matt",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T16:00:27Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: All 20 recent deployments READY (landing-page, mission-control) \u2014 No errors",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T10:15:17Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcca",
-    "action": "CRON",
-    "detail": "Hourly Activity Update: Silent ops \u2014 Vercel all green, models healthy, Viper portfolio stable. Next: morning sprint (6:30 AM brief)",
     "type": "success"
   }
 ]

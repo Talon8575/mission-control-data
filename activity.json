@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T03:01:22Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcb5",
+    "action": "CRON",
+    "detail": "Daily Cost Report: .68 today, .69/month (within budget)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T03:01:05Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udd27",
     "action": "CRON",
     "detail": "Model Health Check: All models healthy, Claude Max responding normally",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-22T22:45:50Z",
-    "agent": "Talon",
-    "emoji": "\ud83e\udd85",
-    "action": "LIVE",
-    "detail": "Refresh button now pulls live data from GitHub \u2014 no deploy needed",
     "type": "success"
   }
 ]

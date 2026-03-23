@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T10:15:35Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 20 recent deployments READY (landing-page, mission-control) \u2014 No errors",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T10:15:17Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcca",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcca",
     "action": "CRON",
     "detail": "Hourly Activity: Viper filled 6 orders ( deployed), Vercel healthy, 4 n8n workflows created, costs green",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T04:00:25Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: 2 deployments checked \u2014 all READY, no errors",
     "type": "success"
   }
 ]

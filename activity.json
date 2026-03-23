@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T09:45:09Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 20 recent deployments READY (landing-page, mission-control). No failures detected.",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T09:30:30Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: 3x mission-control deployments FAILED (unused var _error in global-error.tsx). Latest deployments READY. Fix: prefix var with underscore or add @typescript-eslint/no-unused-vars eslint-disable.",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T03:39:23Z",
-    "agent": "Talon",
-    "emoji": "\ud83e\udd85",
-    "action": "DEPLOY",
-    "detail": "Autonomous ops deployed. Identity updated. 11 X tweets posted. Queue loaded. Night shift starts 1 AM.",
     "type": "success"
   }
 ]

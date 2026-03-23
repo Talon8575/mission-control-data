@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T02:45:16Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 3 failed deploys (mission-control) \u2014 ESLint error: unused '_error' variable in global-error.tsx",
+    "type": "error"
+  },
+  {
     "timestamp": "2026-03-23T02:30:25Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83e\udd85",
     "action": "SYSTEM",
     "detail": "Mission Control auto-update script deployed",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-22T22:26:35Z",
-    "agent": "Talon",
-    "emoji": "\ud83e\udd85",
-    "action": "DEPLOYED",
-    "detail": "Mission Control updated \u2014 added Activity Feed + Outreach Pipeline panels",
     "type": "success"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T11:00:31Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 10 recent deployments healthy (READY state, no errors)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T11:00:13Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd27",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: All 47 deployments READY (last 24h) \u2014 no errors detected",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T04:30:24Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: 2 deployments READY, all healthy",
     "type": "success"
   }
 ]

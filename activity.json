@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-23T04:30:11Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both healthy \u2014 Claude Max token static/active, OpenRouter key valid (.84 monthly usage)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-23T04:15:44Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd0d",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udc0d",
     "action": "INTEL",
     "detail": "Competitive intel brief: Top 5 healthcare AI automation agencies analyzed",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-22T23:16:39Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udce7",
-    "action": "ENRICH",
-    "detail": "Scraped emails from 116/189 prospect websites \u2014 8 valid emails found (48% total coverage)",
     "type": "success"
   }
 ]

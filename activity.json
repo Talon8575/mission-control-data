@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-24T18:00:13Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both Claude Max token (static/healthy) and OpenRouter (.89/mo usage, no issues) are green.",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-24T17:45:17Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udd0d",
     "action": "CRON",
     "detail": "Community Intel: Setup friction + ClaudeClaw competition + enterprise hardening demand + workspace config templates emerging as opportunity",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-24T12:07:45Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: mission-control READY\u2014no errors detected in last 1h",
     "type": "success"
   }
 ]

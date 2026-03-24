@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-24T23:25:49Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 2 deployments checked, all READY - midsouth-transitions stable",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-24T23:25:27Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcca",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: No deployments in last 15m; recent deployments READY",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-24T17:16:21Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcca",
-    "action": "CRON",
-    "detail": "Hourly Activity Update: Vercel all READY, ClawMart no sales, Sentry 1 TypeError found, all systems nominal",
     "type": "success"
   }
 ]

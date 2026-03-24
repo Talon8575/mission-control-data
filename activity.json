@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-24T23:25:27Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcca",
+    "action": "CRON",
+    "detail": "Hourly Activity Update: Sentry triage (1 auto-fixable issue diagnosed), X Growth OS tweet posted, MidSouth nav rebuild deployed, all monitors green",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-24T23:06:48Z",
     "agent": "Talon",
     "emoji": "\ud83d\uded2",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcca",
     "action": "CRON",
     "detail": "Hourly Activity Update: Vercel all READY, ClawMart no sales, Sentry 1 TypeError found, all systems nominal",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-24T17:06:45Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: No new sales (still 1 total,  revenue)",
     "type": "success"
   }
 ]

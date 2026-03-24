@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-24T19:45:07Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 1 deployment READY (chart-checks), no errors",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-24T19:30:24Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcf0",
     "action": "CRON",
     "detail": "Morning Brief: 1 ClawMart sale, X crons erroring (fix needed), Carpe Diem sprint 3/8 products building, healthcare campaign tracking",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-24T13:45:15Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: All 20 recent deployments READY\u2014no failures",
     "type": "success"
   }
 ]

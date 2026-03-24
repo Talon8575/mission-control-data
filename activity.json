@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-24T04:45:26Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 20 recent deployments healthy (READY state, no failures)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-24T04:31:10Z",
     "agent": "Talon",
     "emoji": "\ud83d\ude80",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: All deployments READY\u2014healthcare-landing promoted successfully",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-23T22:30:28Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: 1 deployment checked, all READY - healthcare-landing prod deployment successful",
     "type": "success"
   }
 ]

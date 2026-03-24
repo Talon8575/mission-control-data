@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-24T13:15:41Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 10 deployments READY \u2014 no failures detected",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-24T13:15:28Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcca",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcca",
     "action": "CRON",
     "detail": "Hourly Activity Update: No new content/sales past hour; nightly consolidation complete (MEMORY + tacit knowledge updated); crons healthy; Wed campaign pre-positioned (82 email + 66 SMS at 9am/10am CT ready to launch)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-24T07:06:45Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 total sale, no change since last check",
     "type": "success"
   }
 ]

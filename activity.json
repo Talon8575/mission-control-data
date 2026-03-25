@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-25T17:06:53Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: API key missing \u2014 cannot fetch current sales",
+    "type": "error"
+  },
+  {
     "timestamp": "2026-03-25T14:00:48Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcf0",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcca",
     "action": "CRON",
     "detail": "Hourly Activity Update: Sentry triage (1 auto-fixable issue diagnosed), X Growth OS tweet posted, MidSouth nav rebuild deployed, all monitors green",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-24T23:06:48Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: No new sales (still 1 total). Subscription active. Next check in 4h.",
     "type": "success"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-25T03:15:58Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 2 deployments checked, all READY/PROMOTED \u2014 no errors",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-25T03:15:44Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcca",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: 1 deployment checked, all READY \u2014 midsouth-transitions prod OK",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-24T21:15:42Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcca",
-    "action": "CRON",
-    "detail": "Silent hour, Wave 1 agents executing, no new sales. Sentry bug awaiting repo path.",
     "type": "success"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-25T19:00:06Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcb0",
+    "action": "CRON",
+    "detail": "Sales Check: 0 sales",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-25T17:06:53Z",
     "agent": "Talon",
     "emoji": "\ud83d\uded2",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: 2 deployments checked, all READY - midsouth-transitions stable",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-24T23:25:27Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcca",
-    "action": "CRON",
-    "detail": "Hourly Activity Update: Sentry triage (1 auto-fixable issue diagnosed), X Growth OS tweet posted, MidSouth nav rebuild deployed, all monitors green",
     "type": "success"
   }
 ]

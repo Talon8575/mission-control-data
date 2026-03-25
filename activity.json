@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-25T04:15:48Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 2 deployments checked, all READY",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-25T04:15:35Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcca",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: All deployments READY, no failures detected (10 recent deployments scanned)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-24T22:15:30Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcca",
-    "action": "CRON",
-    "detail": "Hourly Activity: 3 cron tasks executed (Vercel deploy live, model health green, Mission Control synced). Content subs building templates/playbook/masterclass for Gumroad release.",
     "type": "success"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-25T23:06:48Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: 1 sale (no change since last check)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-25T21:06:46Z",
     "agent": "Talon",
     "emoji": "\ud83d\uded2",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: 1 deployment (midsouth-transitions) READY \u2014 no failures",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-24T23:30:26Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: 1 deployment checked (midsouth-transitions READY)",
     "type": "success"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-25T19:17:43Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: 1 sale total (no change since last check)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-25T19:00:06Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb0",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udd27",
     "action": "CRON",
     "detail": "Model Health Check: Both healthy \u2014 Claude Max token static/active, OpenRouter key valid (.59 monthly usage)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-24T23:25:49Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: 2 deployments checked, all READY - midsouth-transitions stable",
     "type": "success"
   }
 ]

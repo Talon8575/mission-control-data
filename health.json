@@ -1,8 +1,7 @@
 {
-  "gateway": "1
-running",
+  "gateway": "running",
   "n8n": "running",
-  "openRouterBalance": 29.05,
-  "lcmDatabaseSize": "",
-  "uptime": "12 days"
+  "orBalance": null,
+  "lcmDatabase": "ok",
+  "uptime": "12d"
 }

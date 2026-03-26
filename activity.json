@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-26T08:00:24Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcbe",
+    "action": "CRON",
+    "detail": "Consolidation backup: 2 AM job failed (recovered). Created 2026-03-26.md, verified Email 2 sent, all 36 products ready, Gumroad token expired (blocker for uploads).",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-26T07:06:49Z",
     "agent": "Talon",
     "emoji": "\ud83d\uded2",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcb0",
     "action": "CRON",
     "detail": "Sales Check: 0 Gumroad sales found",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-25T00:45:10Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: 3 deployments checked\u2014all healthy (1 BUILDING, 2 READY). No errors.",
     "type": "success"
   }
 ]

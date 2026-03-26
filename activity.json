@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-26T12:13:03Z",
+    "agent": "Scout",
+    "emoji": "\ud83c\udfe0",
+    "action": "CRON",
+    "detail": "Property Scanner: 1292 properties scanned, 29 deals found (best: k\u2192.1M)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-26T11:06:50Z",
     "agent": "Talon",
     "emoji": "\ud83d\uded2",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\uded2",
     "action": "CRON",
     "detail": "ClawMart Sales Monitor: No new sales. Total: 1 (steady)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-25T01:01:14Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: All 5 recent deployments (midsouth-transitions) READY \u2014 no failures detected",
     "type": "success"
   }
 ]

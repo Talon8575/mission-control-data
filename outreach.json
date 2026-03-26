@@ -1,14 +1,29 @@
 {
-  "mailboxes": 10,
-  "domainsActive": 5,
-  "warmupStatus": "active",
-  "warmupDaysRemaining": 14,
-  "dailyCapacity": 300,
-  "sequencesDraft": 1,
-  "sequencesActive": 0,
-  "prospectsReady": 300,
-  "prospectsEnriched": 0,
-  "emailsSent": 0,
-  "replies": 0,
-  "meetings": 0
+  "coldEmail": {
+    "totalProspects": 159,
+    "emailsSent": 159,
+    "email1Sent": 82,
+    "email2Sent": 77,
+    "email3Sent": 77,
+    "uniqueOpeners": 4,
+    "hotProspects": ["Crews Chiropractic", "Utica Dental of Tulsa", "Dallas Dental Arts", "Arkansas Primary Care"],
+    "followUpsSent": 4,
+    "replies": 0,
+    "meetings": 0,
+    "platform": "Resend",
+    "fromDomain": "hcipbilling.com"
+  },
+  "warmOutreach": {
+    "emailsSent": 10,
+    "textsSent": 8,
+    "totalContacts": 14,
+    "healthcareContacts": 14,
+    "platform": "Resend + Twilio",
+    "twilioNumber": "+13187717319"
+  },
+  "expansionProspects": {
+    "texasBatch": 26,
+    "totalExpansion": 26
+  },
+  "totalTouchpoints": 185
 }

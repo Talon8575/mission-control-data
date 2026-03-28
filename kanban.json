@@ -3,222 +3,310 @@
   "day": 9,
   "done": [
     {
-      "title": "FIRST SALE — $29 on ClawMart",
+      "title": "FIRST SALE \u2014 $29 on Stripe stores",
       "detail": "Operator Playbook sold organically. Revenue: $29. Day 8.",
-      "tags": ["revenue"]
+      "tags": [
+        "revenue"
+      ]
     },
     {
       "title": "Mission Control Activity Feed + Outreach Pipeline panels deployed",
       "detail": "Real-time activity feed and cold email pipeline panels live in Mission Control dashboard.",
-      "tags": ["infra"]
+      "tags": [
+        "infra"
+      ]
     },
     {
       "title": "Full infrastructure wired (Day 8)",
       "detail": "Auto-compaction, session reset, failover chain, model health checks, Vercel monitoring, cost tracking",
-      "tags": ["infra"]
+      "tags": [
+        "infra"
+      ]
     },
     {
       "title": "Agent team built (5 agents)",
-      "detail": "Viper (crypto), Hawk (healthcare), Echo (content), Scout (RE), Apex (men's health) — all with SOUL.md + models",
-      "tags": ["infra"]
+      "detail": "Viper (crypto), Hawk (healthcare), Echo (content), Scout (RE), Apex (men's health) \u2014 all with SOUL.md + models",
+      "tags": [
+        "infra"
+      ]
     },
     {
       "title": "Dual model routing",
-      "detail": "Claude Max (free) for Matt's DMs · OpenRouter (paid) for background · auto-failover + alerts",
-      "tags": ["infra"]
+      "detail": "Claude Max (free) for Matt's DMs \u00b7 OpenRouter (paid) for background \u00b7 auto-failover + alerts",
+      "tags": [
+        "infra"
+      ]
     },
     {
       "title": "Tiered model routing",
-      "detail": "/model opus (strategy) · /model sonnet (content) · /model haiku (quick) · cost tracking cron",
-      "tags": ["infra"]
+      "detail": "/model opus (strategy) \u00b7 /model sonnet (content) \u00b7 /model haiku (quick) \u00b7 cost tracking cron",
+      "tags": [
+        "infra"
+      ]
     },
     {
       "title": "n8n installed + running",
-      "detail": "v2.12.3 on port 5678 · LaunchAgent auto-start · workflow automation backbone",
-      "tags": ["infra"]
+      "detail": "v2.12.3 on port 5678 \u00b7 LaunchAgent auto-start \u00b7 workflow automation backbone",
+      "tags": [
+        "infra"
+      ]
     },
     {
       "title": "Market Intelligence Brief prototype",
-      "detail": "8 API Ninjas endpoints → Haiku summary → HTML email + Telegram · 6:30 AM daily cron",
-      "tags": ["product", "revenue"]
+      "detail": "8 API Ninjas endpoints \u2192 Haiku summary \u2192 HTML email + Telegram \u00b7 6:30 AM daily cron",
+      "tags": [
+        "product",
+        "revenue"
+      ]
     },
     {
       "title": "X posting resumed (15 tweets)",
-      "detail": "5 threads · Hook/Story/Offer format · healthcare ROI, agency margins, cold email, building in public",
-      "tags": ["traffic"]
+      "detail": "5 threads \u00b7 Hook/Story/Offer format \u00b7 healthcare ROI, agency margins, cold email, building in public",
+      "tags": [
+        "traffic"
+      ]
     },
     {
       "title": "Quality audit completed",
-      "detail": "All products, sites, X posts, newsletters graded A-D · fixes applied to 3 sites",
-      "tags": ["infra"]
+      "detail": "All products, sites, X posts, newsletters graded A-D \u00b7 fixes applied to 3 sites",
+      "tags": [
+        "infra"
+      ]
     },
     {
       "title": "operationtalon.com upgraded",
-      "detail": "Email capture added · 4 'Coming Soon' products removed · cleaner focus",
-      "tags": ["traffic"],
+      "detail": "Email capture added \u00b7 4 'Coming Soon' products removed \u00b7 cleaner focus",
+      "tags": [
+        "traffic"
+      ],
       "link": "https://operationtalon.com"
     },
     {
       "title": "3 PRDs written",
       "detail": "Voice Chat (CarPlay), DO Client Architecture ($24/mo droplets), Collab Writing (Google Docs)",
-      "tags": ["infra"]
+      "tags": [
+        "infra"
+      ]
     },
     {
       "title": "5 ClawHub skills installed",
       "detail": "sentry-observability, openrouter-analytics, self-health-monitor, agent-sentinel, agentic-coding",
-      "tags": ["infra"]
+      "tags": [
+        "infra"
+      ]
     },
     {
       "title": "11 cron jobs running",
       "detail": "Activity, sales, memory consolidation, property scan, morning brief, health check, Vercel monitor, cost report, community intel, market brief",
-      "tags": ["infra"]
+      "tags": [
+        "infra"
+      ]
     },
     {
       "title": "11 products live",
-      "detail": "6 Gumroad + 5 ClawMart · Starter Kit, Workflows, Cold Email, Prompt Pack, Healthcare, RE Scanner, Talon Persona",
-      "tags": ["revenue"]
+      "detail": "6 Gumroad + 5 Stripe stores \u00b7 Starter Kit, Workflows, Cold Email, Prompt Pack, Healthcare, RE Scanner, Talon Persona",
+      "tags": [
+        "revenue"
+      ]
     },
     {
       "title": "6 HCIP subdomains deployed",
-      "detail": "Landing, demo, ROI calc, script, docs, prospects · leave-behind updated (evergreen scarcity)",
-      "tags": ["healthcare"],
+      "detail": "Landing, demo, ROI calc, script, docs, prospects \u00b7 leave-behind updated (evergreen scarcity)",
+      "tags": [
+        "healthcare"
+      ],
       "link": "https://hcipautomation.com"
     },
     {
       "title": "300 prospect list ready",
-      "detail": "100 AR + 100 OK + 100 Shreveport LA · priority scored",
-      "tags": ["healthcare"]
+      "detail": "100 AR + 100 OK + 100 Shreveport LA \u00b7 priority scored",
+      "tags": [
+        "healthcare"
+      ]
     },
     {
       "title": "Property scanner v2",
-      "detail": "11 sources · 19 states · 1,279 properties scanned · daily cron",
-      "tags": ["revenue"],
+      "detail": "11 sources \u00b7 19 states \u00b7 1,279 properties scanned \u00b7 daily cron",
+      "tags": [
+        "revenue"
+      ],
       "link": "https://realestate.operationtalon.com"
     },
     {
       "title": "Newsletter template written",
-      "detail": "Based on Issue 3 (A- grade) · Hook → Problem → Tools → Lessons → CTA",
-      "tags": ["traffic"]
+      "detail": "Based on Issue 3 (A- grade) \u00b7 Hook \u2192 Problem \u2192 Tools \u2192 Lessons \u2192 CTA",
+      "tags": [
+        "traffic"
+      ]
     },
     {
       "title": "API revenue map",
-      "detail": "120+ APIs mapped · Top 5 zero-human products identified · $7,500/mo at 50 customers",
-      "tags": ["revenue"]
+      "detail": "120+ APIs mapped \u00b7 Top 5 zero-human products identified \u00b7 $7,500/mo at 50 customers",
+      "tags": [
+        "revenue"
+      ]
     },
     {
       "title": "OK Men's Health Clinic logo",
       "detail": "Shield + text logo integrated into site nav",
-      "tags": ["healthcare"],
+      "tags": [
+        "healthcare"
+      ],
       "link": "https://oklahomamenshealthclinic.com"
     },
     {
       "title": "Resend email configured",
-      "detail": "API key + DNS records set on operationtalon.com via Namecheap API · domain verifying",
-      "tags": ["infra"]
+      "detail": "API key + DNS records set on operationtalon.com via Namecheap API \u00b7 domain verifying",
+      "tags": [
+        "infra"
+      ]
     }
   ],
   "inProgress": [
     {
       "title": "Salesforge Cold Email Setup",
       "detail": "10 mailboxes purchased, warmup active across all accounts. 14 days remaining before full send capacity.",
-      "tags": ["revenue", "traffic"],
-      "timestamp": "Warmup active — 14d remaining"
+      "tags": [
+        "revenue",
+        "traffic"
+      ],
+      "timestamp": "Warmup active \u2014 14d remaining"
     },
     {
       "title": "Email Enrichment for 300 Prospects",
       "detail": "Need verified emails for 300 healthcare prospects before Salesforge import. Evaluating enrichment tools.",
-      "tags": ["healthcare", "revenue"],
+      "tags": [
+        "healthcare",
+        "revenue"
+      ],
       "timestamp": "Blocking cold outreach launch"
     },
     {
       "title": "Market Brief email delivery",
-      "detail": "Telegram working · Resend domain verifying · 4 recipients queued (matt/josh/jeff/andy@hcip.health)",
-      "tags": ["product"],
+      "detail": "Telegram working \u00b7 Resend domain verifying \u00b7 4 recipients queued (matt/josh/jeff/andy@hcip.health)",
+      "tags": [
+        "product"
+      ],
       "timestamp": "Waiting on domain verification"
     },
     {
       "title": "Healthcare outreach",
-      "detail": "300 prospects loaded · sales toolkit ready · Matt making calls",
-      "tags": ["healthcare", "revenue"],
-      "timestamp": "Stalled — needs Matt's calls"
+      "detail": "300 prospects loaded \u00b7 sales toolkit ready \u00b7 Matt making calls",
+      "tags": [
+        "healthcare",
+        "revenue"
+      ],
+      "timestamp": "Stalled \u2014 needs Matt's calls"
     },
     {
       "title": "X content engine",
-      "detail": "15 tweets posted Day 8 · need sustained daily posting · Echo agent ready",
-      "tags": ["traffic"],
+      "detail": "15 tweets posted Day 8 \u00b7 need sustained daily posting \u00b7 Echo agent ready",
+      "tags": [
+        "traffic"
+      ],
       "timestamp": "Active"
     },
     {
       "title": "Beehiiv newsletter",
-      "detail": "4 issues published · new template written · need consistent weekly cadence",
-      "tags": ["traffic"],
+      "detail": "4 issues published \u00b7 new template written \u00b7 need consistent weekly cadence",
+      "tags": [
+        "traffic"
+      ],
       "timestamp": "Weekly"
     },
     {
       "title": "Market Brief 1-week trial",
-      "detail": "Running Mar 22-28 · 4 recipients · evaluating quality before selling at $49/mo",
-      "tags": ["product", "revenue"],
+      "detail": "Running Mar 22-28 \u00b7 4 recipients \u00b7 evaluating quality before selling at $49/mo",
+      "tags": [
+        "product",
+        "revenue"
+      ],
       "timestamp": "Started today 6:30 AM"
     },
     {
       "title": "Gumroad store optimization",
-      "detail": "Needs: store bio, banner, product descriptions, Prompt Pack → free lead magnet",
-      "tags": ["revenue"],
+      "detail": "Needs: store bio, banner, product descriptions, Prompt Pack \u2192 free lead magnet",
+      "tags": [
+        "revenue"
+      ],
       "timestamp": "Needs Matt's login"
     }
   ],
   "toDo": [
     {
       "title": "Voice Chat (CarPlay)",
-      "detail": "PRD approved · Deepgram + Pipecat + ElevenLabs · ~10-15 hrs to build",
-      "tags": ["infra"]
+      "detail": "PRD approved \u00b7 Deepgram + Pipecat + ElevenLabs \u00b7 ~10-15 hrs to build",
+      "tags": [
+        "infra"
+      ]
     },
     {
       "title": "DigitalOcean client deploy",
-      "detail": "PRD approved · $24/mo per-client droplets · needs DO account",
-      "tags": ["revenue"]
+      "detail": "PRD approved \u00b7 $24/mo per-client droplets \u00b7 needs DO account",
+      "tags": [
+        "revenue"
+      ]
     },
     {
       "title": "Google Docs collab tool",
-      "detail": "PRD approved · @Talon in docs · Apps Script + webhook",
-      "tags": ["product"]
+      "detail": "PRD approved \u00b7 @Talon in docs \u00b7 Apps Script + webhook",
+      "tags": [
+        "product"
+      ]
     },
     {
       "title": "Ollama local models",
-      "detail": "Analysis done · Qwen 3 8B + Coder 7B · zero-cost crons · ~30 min install",
-      "tags": ["infra"]
+      "detail": "Analysis done \u00b7 Qwen 3 8B + Coder 7B \u00b7 zero-cost crons \u00b7 ~30 min install",
+      "tags": [
+        "infra"
+      ]
     },
     {
       "title": "Cal.com booking page upgrade",
       "detail": "Rename to 'Discovery Call', add description + photo",
-      "tags": ["healthcare"]
+      "tags": [
+        "healthcare"
+      ]
     },
     {
       "title": "AI Meal Prep product",
-      "detail": "API-powered · Nutrition + Recipe + Calories Burned · $19/mo · n8n workflow",
-      "tags": ["product", "revenue"]
+      "detail": "API-powered \u00b7 Nutrition + Recipe + Calories Burned \u00b7 $19/mo \u00b7 n8n workflow",
+      "tags": [
+        "product",
+        "revenue"
+      ]
     },
     {
       "title": "RE ROI Alerts product",
-      "detail": "API-powered · Property Tax + Mortgage + Zip · $29/mo · n8n workflow",
-      "tags": ["product", "revenue"]
+      "detail": "API-powered \u00b7 Property Tax + Mortgage + Zip \u00b7 $29/mo \u00b7 n8n workflow",
+      "tags": [
+        "product",
+        "revenue"
+      ]
     },
     {
       "title": "Brand Monitor product",
-      "detail": "API-powered · Whois + Domain + Sentiment · $39/mo · n8n workflow",
-      "tags": ["product", "revenue"]
+      "detail": "API-powered \u00b7 Whois + Domain + Sentiment \u00b7 $39/mo \u00b7 n8n workflow",
+      "tags": [
+        "product",
+        "revenue"
+      ]
     }
   ],
   "blocked": [
     {
       "title": "Property scanner valuations",
-      "detail": "1,279 properties but 0 scored deals · RentCast pipeline not returning values",
-      "tags": ["needs fix"]
+      "detail": "1,279 properties but 0 scored deals \u00b7 RentCast pipeline not returning values",
+      "tags": [
+        "needs fix"
+      ]
     },
     {
       "title": "Aaron Rimmer site",
       "detail": "Contact form needs Formspree ID from Matt",
-      "tags": ["needs Matt"]
+      "tags": [
+        "needs Matt"
+      ]
     }
   ]
 }

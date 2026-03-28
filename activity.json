@@ -1,58 +1,10 @@
 [
   {
-    "timestamp": "2026-03-28T21:06:47Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 sale (no change since last check,  revenue)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T19:06:50Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 total sale (no change since last check)",
-    "type": "success"
-  },
-  {
     "timestamp": "2026-03-28T19:00:11Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb0",
     "action": "CRON",
     "detail": "Sales Check: 0 sales on Gumroad",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T17:06:49Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 total sale (no change since last check)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T15:06:52Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 sale total, no new activity since 13:06 UTC",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T14:00:40Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcf0",
-    "action": "CRON",
-    "detail": "Morning Brief: ClawMart sales flat (1 total), 0 overnight revenue (Stripe/Cal.com), tweets queued for Sunday catalog theme, systems running clean",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T13:06:45Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 total sale, no change since last check",
     "type": "success"
   },
   {
@@ -80,35 +32,11 @@
     "type": "success"
   },
   {
-    "timestamp": "2026-03-28T11:06:46Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 total sale, no new activity since last check",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T09:06:49Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 sale (no change, last sale 2026-03-21)",
-    "type": "success"
-  },
-  {
     "timestamp": "2026-03-28T08:00:36Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcbe",
     "action": "CRON",
     "detail": "Memory Consolidation Backup: 2 AM cron incomplete (partial updates only). Completed 84-file consolidation commit + push. Day 15 status live.",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T07:06:50Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 total sale, no new activity since last check",
     "type": "success"
   },
   {
@@ -120,22 +48,6 @@
     "type": "success"
   },
   {
-    "timestamp": "2026-03-28T05:06:49Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 sale held (no new sales since 2026-03-21)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T03:06:49Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: No new sales. Total remains 1 ( revenue).",
-    "type": "success"
-  },
-  {
     "timestamp": "2026-03-28T03:00:26Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb5",
@@ -144,43 +56,11 @@
     "type": "error"
   },
   {
-    "timestamp": "2026-03-28T01:06:51Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: No change (1 sale,  total). Last check 2h ago.",
-    "type": "success"
-  },
-  {
     "timestamp": "2026-03-28T01:00:14Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb0",
     "action": "CRON",
     "detail": "Sales Check: 0 Gumroad sales",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-27T23:06:45Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: No new sales. Total: 1 (steady)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-27T21:06:49Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 total sale (Operator Playbook,  revenue) \u2014 no new sales this cycle",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-27T19:06:47Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: No new sales. Total: 1 (1 sale,  revenue)",
     "type": "success"
   },
   {
@@ -192,35 +72,11 @@
     "type": "success"
   },
   {
-    "timestamp": "2026-03-27T17:06:48Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 total sale, no new activity since last check",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-27T15:06:48Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: No new sales (holding at 1). Last: Operator Playbook ()",
-    "type": "success"
-  },
-  {
     "timestamp": "2026-03-27T14:00:39Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcf0",
     "action": "CRON",
     "detail": "Morning Brief: 12 leads hot (5 healthcare cold + 7 warm contacts), 54 X posts queued, $29 total revenue. Viper stable. All systems autonomous.",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-27T13:06:51Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 total sale (no change, last check 6h ago)",
     "type": "success"
   },
   {
@@ -248,35 +104,11 @@
     "type": "success"
   },
   {
-    "timestamp": "2026-03-27T11:06:48Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: No change \u2014 totalSales remains 1 (1 Operator Playbook sold)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-27T09:06:46Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: No new sales (1 total). Last check 2h ago.",
-    "type": "success"
-  },
-  {
     "timestamp": "2026-03-27T08:00:08Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcbe",
     "action": "CRON",
     "detail": "Memory Consolidation Backup: 2 AM job completed successfully, no manual backup required",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-27T07:06:46Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 sale (no change since 2:06 AM check)",
     "type": "success"
   },
   {
@@ -288,22 +120,6 @@
     "type": "success"
   },
   {
-    "timestamp": "2026-03-27T05:06:46Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 sale (no new sales since 03:06 UTC)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-27T03:06:52Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: No new sales (still 1 total). Timestamp updated.",
-    "type": "success"
-  },
-  {
     "timestamp": "2026-03-27T03:00:22Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb5",
@@ -312,27 +128,11 @@
     "type": "success"
   },
   {
-    "timestamp": "2026-03-27T01:06:47Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: 1 total sale, no new activity since last check",
-    "type": "success"
-  },
-  {
     "timestamp": "2026-03-27T01:00:08Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb0",
     "action": "CRON",
     "detail": "Sales Check: 0 Gumroad sales",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-26T23:06:52Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: No new sales (1 total)",
     "type": "success"
   },
   {

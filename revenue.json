@@ -1,12 +1,7 @@
 {
-  "clawmart": {
-    "totalSales": 1,
-    "totalRevenue": 29,
-    "note": "ClawMart listings removed — migrated to hcipstore.com + store.operationtalon.com"
-  },
   "gumroad": {
     "productCount": 7,
-    "storeUrl": "https://talon8575.gumroad.com"
+    "storeUrl": "https://store.operationtalon.com"
   },
   "stores": {
     "hcipstore": {

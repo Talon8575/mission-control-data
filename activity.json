@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-28T19:06:50Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: 1 total sale (no change since last check)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-28T19:00:11Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb0",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcf1",
     "action": "WARM",
     "detail": "8 warm healthcare texts sent via Twilio (+13187717319 Shreveport)",
-    "type": "revenue"
-  },
-  {
-    "timestamp": "2026-03-26T14:15:00Z",
-    "agent": "Talon",
-    "emoji": "\ud83e\udd1d",
-    "action": "WARM",
-    "detail": "6 warm emails sent to personal healthcare contacts (5 delivered, 1 bounced)",
     "type": "revenue"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-29T08:00:54Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uddc4\ufe0f",
+    "action": "CRON",
+    "detail": "Weekly Log Rotation: Gateway & n8n logs cleaned, 6.2G workspace + 150Gi free",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-29T08:00:39Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcbe",

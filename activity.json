@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-31T13:03:44Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udc1b",
+    "action": "CRON",
+    "detail": "Sentry: Found 1 auto-fixable TypeError (.toFixed undefined) \u2014 3 occurrences, needs Codex fix",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-31T13:00:08Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb0",
@@ -390,13 +398,5 @@
     "action": "NEWSLETTER",
     "detail": "Newsletter #4 republished via Buttondown. Beehiiv scripts deprecated.",
     "type": "success"
-  },
-  {
-    "timestamp": "2026-03-26T17:11:00Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udce6",
-    "action": "PRODUCT",
-    "detail": "Products #8 (Dental Compliance Checklist $19) and #9 (CCM/RPM Revenue Kit $29) built",
-    "type": "revenue"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-31T14:00:04Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udc26",
+    "action": "CRON",
+    "detail": "X Flywheel: 30 days ago this system didn't exist.\n\nToday: 200+...",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-31T13:03:44Z",
     "agent": "Talon",
     "emoji": "\ud83d\udc1b",
@@ -389,14 +397,6 @@
     "emoji": "\ud83c\udfea",
     "action": "STORE",
     "detail": "store.operationtalon.com launched \u2014 15 AI products, black/red branding, Space Grotesk",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-26T18:04:00Z",
-    "agent": "Echo",
-    "emoji": "\ud83d\udcf0",
-    "action": "NEWSLETTER",
-    "detail": "Newsletter #4 republished via Buttondown. Beehiiv scripts deprecated.",
     "type": "success"
   }
 ]

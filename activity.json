@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-31T03:00:09Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcb5",
+    "action": "CRON",
+    "detail": "Daily Cost Report: Daily=/bin/zsh.83 Monthly=.04 \u26a0\ufe0f OVER BUDGET",
+    "type": "alert"
+  },
+  {
     "timestamp": "2026-03-31T01:00:10Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb0",

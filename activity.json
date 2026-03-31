@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-31T13:00:08Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcb0",
+    "action": "CRON",
+    "detail": "Sales Check: No new Stripe sales in last 24h",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-31T08:00:50Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcbe",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udce6",
     "action": "PRODUCT",
     "detail": "Products #8 (Dental Compliance Checklist $19) and #9 (CCM/RPM Revenue Kit $29) built",
-    "type": "revenue"
-  },
-  {
-    "timestamp": "2026-03-26T17:01:00Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udce7",
-    "action": "OUTREACH",
-    "detail": "26 expansion prospects emailed (Texas batch). Total cold: 135\u2192161",
     "type": "revenue"
   }
 ]

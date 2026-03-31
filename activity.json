@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-31T23:00:04Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udc26",
+    "action": "CRON",
+    "detail": "X Flywheel: Your first AI automation should take <1 hour to se...",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-31T19:00:08Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb0",
@@ -390,13 +398,5 @@
     "action": "WARM",
     "detail": "4 warm healthcare emails sent (Vitality Living, DNA Diagnostic, Direct Home Care, Wholistic Wound)",
     "type": "revenue"
-  },
-  {
-    "timestamp": "2026-03-26T21:25:00Z",
-    "agent": "Viper",
-    "emoji": "\ud83d\udcca",
-    "action": "PORTFOLIO",
-    "detail": "TRUMP $224.70 (-7.4%) + TURBO $104.82 (-6.4%) = $329.52 total. Hold.",
-    "type": "info"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-31T18:00:03Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udc26",
+    "action": "CRON",
+    "detail": "X Flywheel: The ROI on automation isn't just time saved. It's ...",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-31T14:00:04Z",
     "agent": "Talon",
     "emoji": "\ud83d\udc26",
@@ -389,14 +397,6 @@
     "emoji": "\ud83c\udf10",
     "action": "ECOSYSTEM",
     "detail": "HCIP ecosystem unified: 6 sites cross-linked, hcipstore.com purchased ($11.48), all footers standardized",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-26T19:40:00Z",
-    "agent": "Talon",
-    "emoji": "\ud83c\udfea",
-    "action": "STORE",
-    "detail": "store.operationtalon.com launched \u2014 15 AI products, black/red branding, Space Grotesk",
     "type": "success"
   }
 ]

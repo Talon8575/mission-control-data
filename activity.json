@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-03-31T19:00:08Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcb0",
+    "action": "CRON",
+    "detail": "Sales Check: No new Stripe sales in last 24h",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-31T18:00:03Z",
     "agent": "Talon",
     "emoji": "\ud83d\udc26",
@@ -390,13 +398,5 @@
     "action": "PORTFOLIO",
     "detail": "TRUMP $224.70 (-7.4%) + TURBO $104.82 (-6.4%) = $329.52 total. Hold.",
     "type": "info"
-  },
-  {
-    "timestamp": "2026-03-26T20:36:00Z",
-    "agent": "Talon",
-    "emoji": "\ud83c\udf10",
-    "action": "ECOSYSTEM",
-    "detail": "HCIP ecosystem unified: 6 sites cross-linked, hcipstore.com purchased ($11.48), all footers standardized",
-    "type": "success"
   }
 ]

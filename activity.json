@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-04-01T18:00:03Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udc26",
+    "action": "CRON",
+    "detail": "X Flywheel: What if your business ran itself at 2 AM? That's n...",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-04-01T13:05:40Z",
     "agent": "Talon",
     "emoji": "\ud83d\udc1b",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udcca",
     "action": "CRON",
     "detail": "Hourly Activity Update: No new publications/sales in last hour. Systems stable (Vercel live, ClawMart 1 sale, Stripe 0). Next check 9:15 PM.",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-25T01:07:00Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uded2",
-    "action": "CRON",
-    "detail": "ClawMart Sales Monitor: No new sales. Total: 1 (steady)",
     "type": "success"
   }
 ]

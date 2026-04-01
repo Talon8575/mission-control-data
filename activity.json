@@ -1,350 +1,142 @@
 [
   {
-    "timestamp": "2026-04-01T03:00:08Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb5",
-    "action": "CRON",
-    "detail": "Daily Cost Report: Daily=/bin/zsh.89 Monthly=/bin/zsh.89",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-04-01T01:00:07Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: .00 from 1 charge (last 24h)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-31T23:00:04Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udc26",
-    "action": "CRON",
-    "detail": "X Flywheel: Your first AI automation should take <1 hour to se...",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-31T19:00:08Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: No new Stripe sales in last 24h",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-31T18:00:03Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udc26",
-    "action": "CRON",
-    "detail": "X Flywheel: The ROI on automation isn't just time saved. It's ...",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-31T14:00:04Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udc26",
-    "action": "CRON",
-    "detail": "X Flywheel: 30 days ago this system didn't exist.\n\nToday: 200+...",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-31T13:03:44Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udc1b",
-    "action": "CRON",
-    "detail": "Sentry: Found 1 auto-fixable TypeError (.toFixed undefined) \u2014 3 occurrences, needs Codex fix",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-31T13:00:08Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: No new Stripe sales in last 24h",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-31T08:00:50Z",
+    "timestamp": "2026-04-01T08:01:34Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcbe",
     "action": "CRON",
-    "detail": "Memory Consolidation: 2 AM job partial (update ran, no git push due to submodule conflicts\u2014root files consolidated, ready for manual review)",
+    "detail": "Memory Consolidation Backup (3 AM): 2 AM partial run detected + completed full consolidation. Layer 1 + 3 updated, project status created, MEMORY consolidated, git pushed.",
     "type": "success"
   },
   {
-    "timestamp": "2026-03-31T03:00:09Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb5",
-    "action": "CRON",
-    "detail": "Daily Cost Report: Daily=/bin/zsh.83 Monthly=.04 \u26a0\ufe0f OVER BUDGET",
-    "type": "alert"
-  },
-  {
-    "timestamp": "2026-03-31T01:00:10Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: No Stripe sales in last 24h",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-30T19:00:37Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: No new Stripe sales in last 24h",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-30T18:00:04Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udc26",
-    "action": "CRON",
-    "detail": "X Flywheel: We built a product pipeline that goes from idea \u2192 ...",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-30T14:00:07Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udc26",
-    "action": "CRON",
-    "detail": "X Flywheel: What nobody tells you about cold email campaigns:\n...",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-30T13:16:05Z",
-    "agent": "Scout",
-    "emoji": "\ud83c\udfe0",
-    "action": "CRON",
-    "detail": "Property Scanner Daily: 1296 properties scanned, 29 deals found (top deal: K\u2192.1M ratio 0.03 in Houston). Vercel deployed.",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-30T13:00:18Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: No new Stripe sales in last 24h",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-30T12:12:55Z",
-    "agent": "Scout",
-    "emoji": "\ud83c\udfe0",
-    "action": "CRON",
-    "detail": "Property Scanner: 1296 scanned, 29 deals found, best ratio 0.03 (1610 CRESTDALE DR, Houston - K/.1M). Report deployed.",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-30T08:01:24Z",
+    "timestamp": "2026-03-26T08:00:24Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcbe",
     "action": "CRON",
-    "detail": "Memory Consolidation Backup (Day 17 3 AM): 2 AM evolution captured (X Flywheel cron fixed), cron architecture improvement logged, Layer 1/3 updated, MEMORY.md + tacit-knowledge.md committed to git",
+    "detail": "Consolidation backup: 2 AM job failed (recovered). Created 2026-03-26.md, verified Email 2 sent, all 36 products ready, Gumroad token expired (blocker for uploads).",
     "type": "success"
   },
   {
-    "timestamp": "2026-03-30T01:00:18Z",
+    "timestamp": "2026-03-26T07:06:49Z",
     "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
+    "emoji": "\ud83d\uded2",
     "action": "CRON",
-    "detail": "Sales Check: No Stripe sales in last 24h",
+    "detail": "ClawMart Sales Monitor: 1 total sale, no change since last check",
     "type": "success"
   },
   {
-    "timestamp": "2026-03-29T23:00:52Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udc26",
-    "action": "CRON",
-    "detail": "X Flywheel: engagement tweet posted (2038390953916993548)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-29T19:58:35Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udc26",
-    "action": "CRON",
-    "detail": "X Flywheel: Your AI agent should make money while you sleep",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-29T19:55:20Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uddc4\ufe0f",
-    "action": "CRON",
-    "detail": "Weekly Log Rotation: Cleaned old logs, disk healthy (149Gi free)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-29T19:54:33Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: No new Stripe sales in last 24h",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-29T19:52:32Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uddc4\ufe0f",
-    "action": "CRON",
-    "detail": "Weekly Log Rotation: Gateway & n8n logs purged (7d+); 6.2G workspace, 149Gi disk free",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-29T19:52:20Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: No new Stripe charges in last 24h",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-29T19:00:08Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: 0 Gumroad sales",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-29T13:03:48Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udc1b",
-    "action": "CRON",
-    "detail": "Sentry: 1 TypeError auto-fixable, Codex agent spawned to fix",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-29T13:00:08Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: 0 Gumroad sales",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-29T12:14:43Z",
-    "agent": "Scout",
-    "emoji": "\ud83c\udfe0",
-    "action": "CRON",
-    "detail": "Property Scanner Daily: Scanned 1300 properties across 9 sources; 29 deals found (ratio <0.85); top deal k\u2192.1M; deployed live",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-29T08:00:54Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\uddc4\ufe0f",
-    "action": "CRON",
-    "detail": "Weekly Log Rotation: Gateway & n8n logs cleaned, 6.2G workspace + 150Gi free",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-29T08:00:39Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcbe",
-    "action": "CRON",
-    "detail": "Memory Consolidation Backup (3 AM): 2 AM run failed. Executed full consolidation: Layer 1/2/3 verified, MEMORY.md updated, 7 corrections logged, git pushed.",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-29T03:00:17Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb5",
-    "action": "CRON",
-    "detail": "Daily Cost Report: Monthly spend $278.97 (EXCEEDS $150 target by $128.97) \u2014 daily $0.74, weekly $242.96. ALERT TRIGGERED.",
-    "type": "error"
-  },
-  {
-    "timestamp": "2026-03-29T01:00:13Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: 0 Gumroad sales",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T19:00:11Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: 0 sales on Gumroad",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T13:04:10Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udc1b",
-    "action": "CRON",
-    "detail": "Sentry: Found 1 auto-fixable TypeError (.toFixed on undefined), spawned Codex fix session delta-fjord",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T13:00:12Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: 0 sales on Gumroad",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T12:04:51Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udd0d",
-    "action": "CRON",
-    "detail": "Community Intel: GitHub automation validated as highest ROI; ClawFlows presets winning; marketplace SEO crisis (31k skills, zero web visibility)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T08:00:36Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcbe",
-    "action": "CRON",
-    "detail": "Memory Consolidation Backup: 2 AM cron incomplete (partial updates only). Completed 84-file consolidation commit + push. Day 15 status live.",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-28T07:01:50Z",
+    "timestamp": "2026-03-26T07:02:10Z",
     "agent": "Talon",
     "emoji": "\u2699\ufe0f",
     "action": "CRON",
-    "detail": "Nightly Consolidation Complete: Day 14 self-review (2 corrections logged, 5 new self-improvement rules added, tomorrow's content pre-written, next product drafted: 12-month roadmap )",
+    "detail": "Nightly Consolidation: MEMORY updated (36 products live, Email 2 fired 77 prospects), tomorrow tweets pre-written (Thursday n8n content), brand consistency completed (10 HCIP sites), 3 self-improvement items logged to tacit-knowledge",
     "type": "success"
   },
   {
-    "timestamp": "2026-03-28T03:00:26Z",
+    "timestamp": "2026-03-26T05:06:47Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: 1 total sale (unchanged), last check 2h ago",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-26T03:06:45Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: 1 sale (no change since last check)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-26T03:00:17Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb5",
     "action": "CRON",
-    "detail": "Daily Cost Report: Monthly spend $270.58 (OVER by $120.58). Daily $0.46. Alert: need to review spend drivers.",
+    "detail": "Daily Cost Report: Monthly spend .56 exceeds target () by .56 \u2014 alert pending Telegram config",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-26T01:06:49Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: No new sales (holding at 1 total,  revenue)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-26T01:00:06Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcb0",
+    "action": "CRON",
+    "detail": "Sales Check: 0 sales on Gumroad",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T23:06:48Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: 1 sale (no change since last check)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T21:06:46Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: No new sales (holding at 1 total,  revenue)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T19:17:43Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: 1 sale total (no change since last check)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T19:00:06Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcb0",
+    "action": "CRON",
+    "detail": "Sales Check: 0 sales",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T17:06:53Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: API key missing \u2014 cannot fetch current sales",
     "type": "error"
   },
   {
-    "timestamp": "2026-03-28T01:00:14Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: 0 Gumroad sales",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-27T19:00:26Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
-    "action": "CRON",
-    "detail": "Sales Check: 0 sales from Gumroad",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-27T14:00:39Z",
+    "timestamp": "2026-03-25T14:00:48Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcf0",
     "action": "CRON",
-    "detail": "Morning Brief: 12 leads hot (5 healthcare cold + 7 warm contacts), 54 X posts queued, $29 total revenue. Viper stable. All systems autonomous.",
+    "detail": "Morning Brief:  revenue (no change since Day 8), 15 ClawMart products live, X rate-limited, top priority unblock Gumroad + healthcare calls",
     "type": "success"
   },
   {
-    "timestamp": "2026-03-27T13:00:14Z",
+    "timestamp": "2026-03-25T13:07:02Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: No new sales. Total: 1 (unchanged)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T13:05:38Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udc1b",
+    "action": "CRON",
+    "detail": "Sentry: Found 1 auto-fixable issue (TypeError toFixed); Codex scanned Sterling Health Next.js app\u2014no source .toFixed() calls found; error likely from undefined API response. Needs Sentry source maps review for exact location.",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T13:00:12Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb0",
     "action": "CRON",
@@ -352,51 +144,259 @@
     "type": "success"
   },
   {
-    "timestamp": "2026-03-27T12:15:58Z",
+    "timestamp": "2026-03-25T12:20:20Z",
     "agent": "Talon",
     "emoji": "\ud83d\udd0d",
     "action": "CRON",
-    "detail": "Community Intel Scan: GitHub automation highest demand, plugin ecosystem unstable, ClawHub marketplace invisible to web search\u2014opportunity for SEO layer",
+    "detail": "Community Intel Scan: v2026.3.22 upgrade crisis + 31k ClawHub skills + security concerns + multi-agent coordination demand. Marketplace scaling but discovery/curation gap.",
     "type": "success"
   },
   {
-    "timestamp": "2026-03-27T12:13:07Z",
+    "timestamp": "2026-03-25T12:19:35Z",
     "agent": "Scout",
     "emoji": "\ud83c\udfe0",
     "action": "CRON",
-    "detail": "Property Scanner Daily: 1292 properties scanned, 29 deals found (best: k\u2192.1M)",
+    "detail": "Property Scanner Daily: Scan completed. Fallback report generated and deployed to Vercel.",
     "type": "success"
   },
   {
-    "timestamp": "2026-03-27T08:00:08Z",
+    "timestamp": "2026-03-25T11:06:53Z",
     "agent": "Talon",
-    "emoji": "\ud83d\udcbe",
+    "emoji": "\ud83d\uded2",
     "action": "CRON",
-    "detail": "Memory Consolidation Backup: 2 AM job completed successfully, no manual backup required",
+    "detail": "ClawMart Sales Monitor: 1 sale (no change since 2026-03-21)",
     "type": "success"
   },
   {
-    "timestamp": "2026-03-27T07:02:07Z",
+    "timestamp": "2026-03-25T04:30:16Z",
     "agent": "Talon",
-    "emoji": "\u2699\ufe0f",
+    "emoji": "\ud83d\udd27",
     "action": "CRON",
-    "detail": "Nightly Consolidation Complete (Day 13): MEMORY updated with day 12 accomplishments (36 products, 135 prospects, 6-site ecosystem unified), PERMANENT RULES breach fixed (10 stale blockers prevented), tacit knowledge enhanced with 5 self-improvements (pre-write full copy, email infrastructure, product buffer, breakup sequences, distribution automation), tomorrow-tweets pre-written for Friday outreach focus, product pipeline shifted to distribution priority over creation",
+    "detail": "Model Health Check: Claude Max token healthy (static), OpenRouter healthy (.81/mo used)",
     "type": "success"
   },
   {
-    "timestamp": "2026-03-27T03:00:22Z",
+    "timestamp": "2026-03-25T04:15:48Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 2 deployments checked, all READY",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T04:15:35Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcca",
+    "action": "CRON",
+    "detail": "Hourly Activity: Quiet hour (Day 11 sprint wrapped, 8 sites shipped, 7 tweets posted, revenue pipeline queued). Monitoring overnight stability.",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T04:00:32Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: midsouth-transitions build ERROR \u2014 unused variable COUNTIES in ServiceAreaMap.tsx line 8 (ESLint)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T04:00:13Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both healthy \u2014 Claude Max token in brief cooldown (normal), OpenRouter active (.46 monthly usage, no limit).",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T03:45:13Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: midsouth-transitions ERROR \u2014 React 18/19 peer dependency mismatch (react-leaflet@5 requires React 19)",
+    "type": "error"
+  },
+  {
+    "timestamp": "2026-03-25T03:30:37Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All deployments healthy (2 checked: 1 READY/PROMOTED, 1 BUILDING)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T03:30:16Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both healthy \u2014 Claude Max token active (static), OpenRouter valid ( monthly usage, no limit)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T03:15:58Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 2 deployments checked, all READY/PROMOTED \u2014 no errors",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T03:15:44Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcca",
+    "action": "CRON",
+    "detail": "Hourly Update: System health nominal (models OK, deploys READY, costs on track), no content published; debugging Sterling mobile menu; campaigns queued for Tue",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T03:06:53Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: API key missing - cannot fetch current sales data",
+    "type": "error"
+  },
+  {
+    "timestamp": "2026-03-25T03:01:11Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb5",
     "action": "CRON",
-    "detail": "Daily Cost Report: Monthly .24 (+.24 over  budget). Daily .09. Alert failed (Telegram config issue). Logged snapshot.",
+    "detail": "Daily Cost Report: .80 monthly, .76 daily \u2014 all within budget",
     "type": "success"
   },
   {
-    "timestamp": "2026-03-27T01:00:08Z",
+    "timestamp": "2026-03-25T03:00:44Z",
     "agent": "Talon",
-    "emoji": "\ud83d\udcb0",
+    "emoji": "\ud83d\ude80",
     "action": "CRON",
-    "detail": "Sales Check: 0 Gumroad sales",
+    "detail": "Vercel Deploy Monitor: All deployments READY (site, healthcare-landing, midsouth-transitions) \u2014 no failures detected",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T03:00:15Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both healthy \u2014 Claude Max token static/active, OpenRouter key valid (.62/mo usage, no limits)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T02:45:18Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 10/10 deployments READY, no errors detected",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T02:30:40Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 1 deployment checked, READY/PROMOTED on production \u2014 no errors",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T02:30:12Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both healthy \u2014 Claude Max token static/active, OpenRouter key valid (.20 monthly usage)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T02:16:02Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: 3 deployments checked, all READY \u2014 no failures detected",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T02:15:43Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcca",
+    "action": "CRON",
+    "detail": "Hourly Activity Update: 3 crons completed (deploy monitor, mission control sync, model health all green), Sterling rebrand PRD drafted",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T02:00:39Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 5 recent deployments READY (midsouth-transitions, latest v13)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T02:00:13Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both healthy \u2014 Claude Max token static/active, OpenRouter .11/mo no issues",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T01:45:15Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All recent deployments READY/BUILDING\u2014no errors detected",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T01:30:35Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 10 recent deployments READY (midsouth-transitions v13 latest, 0 failures detected)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T01:30:12Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both providers healthy \u2014 Claude Max token active (static), OpenRouter valid (.66 monthly usage)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T01:15:42Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 8 deployments READY \u2014 midsouth-transitions running v13 (hero overlay + branding refinements)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T01:15:21Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcca",
+    "action": "CRON",
+    "detail": "Hourly Activity Update: No new publications/sales in last hour. Systems stable (Vercel live, ClawMart 1 sale, Gumroad 0). Next check 9:15 PM.",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T01:07:00Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\uded2",
+    "action": "CRON",
+    "detail": "ClawMart Sales Monitor: No new sales. Total: 1 (steady)",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T01:01:14Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\ude80",
+    "action": "CRON",
+    "detail": "Vercel Deploy Monitor: All 5 recent deployments (midsouth-transitions) READY \u2014 no failures detected",
+    "type": "success"
+  },
+  {
+    "timestamp": "2026-03-25T01:01:01Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udd27",
+    "action": "CRON",
+    "detail": "Model Health Check: Both healthy \u2014 Claude Max token active (static), OpenRouter key valid ( monthly usage)",
     "type": "success"
   }
 ]

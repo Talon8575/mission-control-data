@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-04-01T13:05:40Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udc1b",
+    "action": "CRON",
+    "detail": "Sentry: Auto-Triage Pipeline: Fixed TypeError (toFixed on undefined) in apps/hcip-store/api/server.js:116. Added type guard before .toFixed() call.",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-04-01T13:00:08Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb0",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\uded2",
     "action": "CRON",
     "detail": "ClawMart Sales Monitor: No new sales. Total: 1 (steady)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-25T01:01:14Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: All 5 recent deployments (midsouth-transitions) READY \u2014 no failures detected",
     "type": "success"
   }
 ]

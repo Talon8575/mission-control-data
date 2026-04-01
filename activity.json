@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-04-01T03:00:08Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcb5",
+    "action": "CRON",
+    "detail": "Daily Cost Report: Daily=/bin/zsh.89 Monthly=/bin/zsh.89",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-04-01T01:00:07Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcb0",
@@ -390,13 +398,5 @@
     "action": "CRON",
     "detail": "Sales Check: 0 Gumroad sales",
     "type": "success"
-  },
-  {
-    "timestamp": "2026-03-26T21:35:00Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udce7",
-    "action": "OUTREACH",
-    "detail": "4 hot prospect follow-ups sent (Crews Chiro, Utica Dental, Dallas Dental, Arkansas Primary Care)",
-    "type": "revenue"
   }
 ]

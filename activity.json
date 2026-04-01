@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-04-01T01:00:07Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcb0",
+    "action": "CRON",
+    "detail": "Sales Check: .00 from 1 charge (last 24h)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-03-31T23:00:04Z",
     "agent": "Talon",
     "emoji": "\ud83d\udc26",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\udce7",
     "action": "OUTREACH",
     "detail": "4 hot prospect follow-ups sent (Crews Chiro, Utica Dental, Dallas Dental, Arkansas Primary Care)",
-    "type": "revenue"
-  },
-  {
-    "timestamp": "2026-03-26T21:30:00Z",
-    "agent": "Talon",
-    "emoji": "\ud83e\udd1d",
-    "action": "WARM",
-    "detail": "4 warm healthcare emails sent (Vitality Living, DNA Diagnostic, Direct Home Care, Wholistic Wound)",
     "type": "revenue"
   }
 ]

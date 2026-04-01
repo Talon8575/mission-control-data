@@ -1,8 +1,7 @@
 {
-  "clawmart": {"totalSales": 1, "totalRevenue": 29},
-  "gumroad": {
-    "productCount": 6,
-    "storeUrl": "https://talon8575.gumroad.com"
+  "clawmart": {
+    "totalSales": 1,
+    "totalRevenue": 29
   },
   "salesforge": {
     "mailboxes": 10,
@@ -11,5 +10,9 @@
     "dailyCapacity": 300,
     "sequencesDraft": 1,
     "prospectsReady": 300
+  },
+  "legacy_archive": {
+    "productCount": 6,
+    "storeUrl": "https://store.operationtalon.com"
   }
 }

@@ -1,23 +1,15 @@
 {
+  "clawmart": {"totalSales": 1, "totalRevenue": 29},
   "gumroad": {
-    "productCount": 7,
-    "storeUrl": "https://store.operationtalon.com"
+    "productCount": 6,
+    "storeUrl": "https://talon8575.gumroad.com"
   },
-  "stores": {
-    "hcipstore": {
-      "url": "https://hcipstore.com",
-      "products": 39,
-      "status": "live (test keys)",
-      "brand": "HCIP Healthcare"
-    },
-    "talonstore": {
-      "url": "https://store.operationtalon.com",
-      "products": 15,
-      "status": "live (test keys)",
-      "brand": "Operation Talon AI"
-    }
-  },
-  "totalRevenue": 29,
-  "target": 10000,
-  "targetDate": "2026-06-12"
+  "salesforge": {
+    "mailboxes": 10,
+    "domainsActive": 5,
+    "warmupStatus": "active",
+    "dailyCapacity": 300,
+    "sequencesDraft": 1,
+    "prospectsReady": 300
+  }
 }

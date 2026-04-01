@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-04-01T19:00:09Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcb0",
+    "action": "CRON",
+    "detail": "Sales Check: .00 from 1 sale",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-04-01T18:00:03Z",
     "agent": "Talon",
     "emoji": "\ud83d\udc26",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: All 8 deployments READY \u2014 midsouth-transitions running v13 (hero overlay + branding refinements)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-25T01:15:21Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udcca",
-    "action": "CRON",
-    "detail": "Hourly Activity Update: No new publications/sales in last hour. Systems stable (Vercel live, ClawMart 1 sale, Stripe 0). Next check 9:15 PM.",
     "type": "success"
   }
 ]

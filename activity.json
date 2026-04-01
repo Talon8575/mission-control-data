@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-04-01T13:00:08Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcb0",
+    "action": "CRON",
+    "detail": "Sales Check: .00 from 1 sale",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-04-01T08:01:34Z",
     "agent": "Talon",
     "emoji": "\ud83d\udcbe",
@@ -12,7 +20,7 @@
     "agent": "Talon",
     "emoji": "\ud83d\udcbe",
     "action": "CRON",
-    "detail": "Consolidation backup: 2 AM job failed (recovered). Created 2026-03-26.md, verified Email 2 sent, all 36 products ready, Gumroad token expired (blocker for uploads).",
+    "detail": "Consolidation backup: 2 AM job failed (recovered). Created 2026-03-26.md, verified Email 2 sent, all 36 products ready, Stripe token expired (blocker for uploads).",
     "type": "success"
   },
   {
@@ -68,7 +76,7 @@
     "agent": "Talon",
     "emoji": "\ud83d\udcb0",
     "action": "CRON",
-    "detail": "Sales Check: 0 sales on Gumroad",
+    "detail": "Sales Check: 0 sales on Stripe",
     "type": "success"
   },
   {
@@ -116,7 +124,7 @@
     "agent": "Talon",
     "emoji": "\ud83d\udcf0",
     "action": "CRON",
-    "detail": "Morning Brief:  revenue (no change since Day 8), 15 ClawMart products live, X rate-limited, top priority unblock Gumroad + healthcare calls",
+    "detail": "Morning Brief:  revenue (no change since Day 8), 15 ClawMart products live, X rate-limited, top priority unblock Stripe + healthcare calls",
     "type": "success"
   },
   {
@@ -140,7 +148,7 @@
     "agent": "Talon",
     "emoji": "\ud83d\udcb0",
     "action": "CRON",
-    "detail": "Sales Check: 0 sales on Gumroad",
+    "detail": "Sales Check: 0 sales on Stripe",
     "type": "success"
   },
   {
@@ -372,7 +380,7 @@
     "agent": "Talon",
     "emoji": "\ud83d\udcca",
     "action": "CRON",
-    "detail": "Hourly Activity Update: No new publications/sales in last hour. Systems stable (Vercel live, ClawMart 1 sale, Gumroad 0). Next check 9:15 PM.",
+    "detail": "Hourly Activity Update: No new publications/sales in last hour. Systems stable (Vercel live, ClawMart 1 sale, Stripe 0). Next check 9:15 PM.",
     "type": "success"
   },
   {
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: All 5 recent deployments (midsouth-transitions) READY \u2014 no failures detected",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-25T01:01:01Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udd27",
-    "action": "CRON",
-    "detail": "Model Health Check: Both healthy \u2014 Claude Max token active (static), OpenRouter key valid ( monthly usage)",
     "type": "success"
   }
 ]

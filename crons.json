@@ -1,13 +1,5 @@
 [
   {
-    "name": "Daily Cost Report",
-    "schedule": "{'kind': 'cron', 'expr': '0 22 * * ",
-    "nextRun": "-",
-    "lastRun": "-",
-    "lastStatus": "idle",
-    "enabled": true
-  },
-  {
     "name": "Mission Control Update",
     "schedule": "{'kind': 'cron', 'expr': '0 */6 * *",
     "nextRun": "-",
@@ -74,6 +66,14 @@
   {
     "name": "Content Series Day 3",
     "schedule": "{'kind': 'at', 'at': '2026-04-01T14",
+    "nextRun": "-",
+    "lastRun": "-",
+    "lastStatus": "idle",
+    "enabled": true
+  },
+  {
+    "name": "Daily Cost Report",
+    "schedule": "{'kind': 'cron', 'expr': '0 22 * * ",
     "nextRun": "-",
     "lastRun": "-",
     "lastStatus": "idle",

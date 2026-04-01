@@ -1,8 +1,50 @@
 [
-  {"name":"Talon","emoji":"🦅","role":"CEO / Orchestrator","model":"opus","status":"running","lastTask":"Ecosystem unified — 6 HCIP sites + 2 stores + warm outreach + follow-ups"},
-  {"name":"Viper","emoji":"🐍","role":"Crypto Exit Engine","model":"cron","status":"monitoring","lastTask":"TRUMP $224.70 (-7.4%) + TURBO $104.82 (-6.4%) — holding, no exits"},
-  {"name":"Hawk","emoji":"🦅","role":"Healthcare Sales","model":"sonnet","status":"idle","lastTask":"159 cold + 14 warm prospects contacted, 4 hot openers identified"},
-  {"name":"Echo","emoji":"📡","role":"Content Engine","model":"sonnet","status":"idle","lastTask":"Newsletter #4 published via Buttondown, 2 new products built (dental checklist + CCM/RPM kit)"},
-  {"name":"Scout","emoji":"🔭","role":"Property Scanner","model":"haiku","status":"idle","lastTask":"Property scan: 10 deals in AR/OK/LA, top 3 actionable targets"},
-  {"name":"Apex","emoji":"⚡","role":"Ops & Infrastructure","model":"haiku","status":"idle","lastTask":"6 HCIP sites cross-linked, hcipstore.com purchased + deployed"}
+  {
+    "name": "Talon",
+    "emoji": "\ud83e\udd85",
+    "role": "CEO / Orchestrator",
+    "model": "opus",
+    "status": "running",
+    "lastTask": "All 5 agents dispatched + completed \u2014 Mission Control live"
+  },
+  {
+    "name": "Viper",
+    "emoji": "\ud83d\udc0d",
+    "role": "Market Intelligence",
+    "model": "haiku",
+    "status": "idle",
+    "lastTask": "Competitive intel delivered: Top 5 healthcare AI agencies analyzed"
+  },
+  {
+    "name": "Hawk",
+    "emoji": "\ud83e\udd85",
+    "role": "Healthcare Sales",
+    "model": "sonnet",
+    "status": "idle",
+    "lastTask": "Cold email sequence finalized \u2014 4-step + 5 A/B variants + objection handler"
+  },
+  {
+    "name": "Echo",
+    "emoji": "\ud83d\udce1",
+    "role": "Content Engine",
+    "model": "sonnet",
+    "status": "idle",
+    "lastTask": "Week 2 newsletter drafted \u2014 building in public, real metrics"
+  },
+  {
+    "name": "Scout",
+    "emoji": "\ud83d\udd2d",
+    "role": "Property Scanner",
+    "model": "haiku",
+    "status": "idle",
+    "lastTask": "Property scan: 10 deals in AR/OK/LA, top 3 actionable targets"
+  },
+  {
+    "name": "Apex",
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "role": "Men's Health",
+    "model": "sonnet",
+    "status": "idle",
+    "lastTask": "OK Men's Health: 30-day content calendar + 3 blog drafts"
+  }
 ]

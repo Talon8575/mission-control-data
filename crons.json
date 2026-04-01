@@ -1,128 +1,112 @@
 [
   {
-    "name": "Mission Control Update",
-    "schedule": "cron */30 * * * * (exact)",
-    "nextRun": "<1m ago",
-    "lastRun": "1h ago",
-    "lastStatus": "running",
-    "enabled": true
-  },
-  {
-    "name": "Vercel Deploy Monitor",
-    "schedule": "cron */15 * * * * @ America/C...",
-    "nextRun": "in 9m",
-    "lastRun": "6m ago",
-    "lastStatus": "ok",
-    "enabled": true
-  },
-  {
-    "name": "Hourly Activity Update",
-    "schedule": "cron 15 * * * * @ America/Chi...",
-    "nextRun": "in 9m",
-    "lastRun": "51m ago",
-    "lastStatus": "ok",
-    "enabled": true
-  },
-  {
-    "name": "Model Health Check",
-    "schedule": "cron */30 * * * * @ America/C...",
-    "nextRun": "in 24m",
-    "lastRun": "6m ago",
-    "lastStatus": "ok",
-    "enabled": true
-  },
-  {
-    "name": "Sentry: Auto-Triage P...",
-    "schedule": "cron 0 */6 * * * @ America/Ch...",
-    "nextRun": "in 57m",
-    "lastRun": "5h ago",
-    "lastStatus": "ok",
-    "enabled": true
-  },
-  {
-    "name": "meme-monitor",
-    "schedule": "cron 0 */2 * * * @ America/Ch...",
-    "nextRun": "in 58m",
-    "lastRun": "1h ago",
-    "lastStatus": "error",
-    "enabled": true
-  },
-  {
-    "name": "Sales Check",
-    "schedule": "cron 0 8,14,20 * * * @ Americ...",
-    "nextRun": "in 3h",
-    "lastRun": "3h ago",
-    "lastStatus": "ok",
-    "enabled": true
-  },
-  {
-    "name": "Viper: Price Alert Mo...",
-    "schedule": "cron 0 */4 * * * @ America/Ch...",
-    "nextRun": "in 3h",
-    "lastRun": "1h ago",
-    "lastStatus": "ok",
-    "enabled": true
-  },
-  {
     "name": "Daily Cost Report",
-    "schedule": "cron 0 22 * * * @ America/Chi...",
-    "nextRun": "in 5h",
-    "lastRun": "19h ago",
-    "lastStatus": "ok",
-    "enabled": true
-  },
-  {
-    "name": "Nightly Consolidation...",
-    "schedule": "cron 0 2 * * * @ America/Chic...",
-    "nextRun": "in 9h",
-    "lastRun": "15h ago",
-    "lastStatus": "error",
-    "enabled": true
-  },
-  {
-    "name": "Memory Consolidation ...",
-    "schedule": "cron 0 3 * * * @ America/Chic...",
-    "nextRun": "in 10h",
-    "lastRun": "14h ago",
-    "lastStatus": "ok",
-    "enabled": true
-  },
-  {
-    "name": "Community Intel Scan",
-    "schedule": "cron 0 7 * * * (exact)",
-    "nextRun": "in 14h",
-    "lastRun": "10h ago",
-    "lastStatus": "ok",
-    "enabled": true
-  },
-  {
-    "name": "Property Scanner Daily",
-    "schedule": "cron 0 7 * * * @ America/Chic...",
-    "nextRun": "in 14h",
-    "lastRun": "10h ago",
-    "lastStatus": "ok",
-    "enabled": true
-  },
-  {
-    "name": "Viper: DCA Bot ( BTC ...",
-    "schedule": "cron 0 8 * * * @ America/Chic...",
-    "nextRun": "in 15h",
+    "schedule": "{'kind': 'cron', 'expr': '0 22 * * ",
+    "nextRun": "-",
     "lastRun": "-",
     "lastStatus": "idle",
     "enabled": true
   },
   {
-    "name": "Morning Brief",
-    "schedule": "cron 0 9 * * * @ America/Chic...",
-    "nextRun": "in 16h",
-    "lastRun": "8h ago",
-    "lastStatus": "ok",
+    "name": "Mission Control Update",
+    "schedule": "{'kind': 'cron', 'expr': '0 */6 * *",
+    "nextRun": "-",
+    "lastRun": "-",
+    "lastStatus": "idle",
+    "enabled": true
+  },
+  {
+    "name": "Nightly Evolution Cycle",
+    "schedule": "{'kind': 'cron', 'expr': '0 2 * * *",
+    "nextRun": "-",
+    "lastRun": "-",
+    "lastStatus": "idle",
+    "enabled": true
+  },
+  {
+    "name": "Memory Consolidation Back",
+    "schedule": "{'kind': 'cron', 'expr': '0 3 * * *",
+    "nextRun": "-",
+    "lastRun": "-",
+    "lastStatus": "idle",
+    "enabled": true
+  },
+  {
+    "name": "Property Scanner Daily",
+    "schedule": "{'kind': 'cron', 'expr': '0 7 * * *",
+    "nextRun": "-",
+    "lastRun": "-",
+    "lastStatus": "idle",
+    "enabled": true
+  },
+  {
+    "name": "Titan Accountability Chec",
+    "schedule": "{'kind': 'cron', 'expr': '30 7 * * ",
+    "nextRun": "-",
+    "lastRun": "-",
+    "lastStatus": "idle",
+    "enabled": true
+  },
+  {
+    "name": "Sales Check",
+    "schedule": "{'kind': 'cron', 'expr': '0 8,14,20",
+    "nextRun": "-",
+    "lastRun": "-",
+    "lastStatus": "idle",
+    "enabled": true
+  },
+  {
+    "name": "Sentry: Auto-Triage Pipel",
+    "schedule": "{'kind': 'cron', 'expr': '0 8 * * *",
+    "nextRun": "-",
+    "lastRun": "-",
+    "lastStatus": "idle",
+    "enabled": true
+  },
+  {
+    "name": "X Content Flywheel \u2014 Queu",
+    "schedule": "{'kind': 'cron', 'expr': '0 9,13,18",
+    "nextRun": "-",
+    "lastRun": "-",
+    "lastStatus": "idle",
+    "enabled": true
+  },
+  {
+    "name": "Content Series Day 3",
+    "schedule": "{'kind': 'at', 'at': '2026-04-01T14",
+    "nextRun": "-",
+    "lastRun": "-",
+    "lastStatus": "idle",
+    "enabled": true
+  },
+  {
+    "name": "Content Series Day 4",
+    "schedule": "{'kind': 'at', 'at': '2026-04-02T14",
+    "nextRun": "-",
+    "lastRun": "-",
+    "lastStatus": "idle",
+    "enabled": true
+  },
+  {
+    "name": "Content Series Day 5",
+    "schedule": "{'kind': 'at', 'at': '2026-04-03T14",
+    "nextRun": "-",
+    "lastRun": "-",
+    "lastStatus": "idle",
+    "enabled": true
+  },
+  {
+    "name": "Content Series Day 6",
+    "schedule": "{'kind': 'at', 'at': '2026-04-04T15",
+    "nextRun": "-",
+    "lastRun": "-",
+    "lastStatus": "idle",
     "enabled": true
   },
   {
     "name": "Weekly Log Rotation",
-    "schedule": "cron 0 3 * * 0 (exact)",
-    "nextRun": "in 6d",
+    "schedule": "{'kind': 'cron', 'expr': '0 3 * * 0",
+    "nextRun": "-",
     "lastRun": "-",
     "lastStatus": "idle",
     "enabled": true

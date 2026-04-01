@@ -75,7 +75,7 @@
     },
     {
       "title": "11 products live",
-      "detail": "6 Gumroad + 5 ClawMart · Starter Kit, Workflows, Cold Email, Prompt Pack, Healthcare, RE Scanner, Talon Persona",
+      "detail": "6 Stripe + 5 ClawMart · Starter Kit, Workflows, Cold Email, Prompt Pack, Healthcare, RE Scanner, Talon Persona",
       "tags": ["revenue"]
     },
     {
@@ -161,7 +161,7 @@
       "timestamp": "Started today 6:30 AM"
     },
     {
-      "title": "Gumroad store optimization",
+      "title": "Stripe store optimization",
       "detail": "Needs: store bio, banner, product descriptions, Prompt Pack → free lead magnet",
       "tags": ["revenue"],
       "timestamp": "Needs Matt's login"

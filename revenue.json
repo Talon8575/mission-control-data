@@ -1,18 +1,43 @@
 {
-  "clawmart": {
-    "totalSales": 1,
-    "totalRevenue": 29
+  "totalRevenue": 4744.0,
+  "totalSales": 11,
+  "mrr": 0,
+  "pipelineValue": 11000,
+  "stripeBalance": {
+    "available": 0.0,
+    "pending": 0.0
   },
-  "salesforge": {
-    "mailboxes": 10,
-    "domainsActive": 5,
-    "warmupStatus": "active",
-    "dailyCapacity": 300,
-    "sequencesDraft": 1,
-    "prospectsReady": 300
-  },
-  "legacy_archive": {
-    "productCount": 6,
-    "storeUrl": "https://store.operationtalon.com"
-  }
+  "recentPayments": [
+    {
+      "amount": 19.0,
+      "description": null,
+      "date": 1774986079,
+      "status": "succeeded"
+    },
+    {
+      "amount": 600.0,
+      "description": "October SEO MArketing",
+      "date": 1635777223,
+      "status": "succeeded"
+    },
+    {
+      "amount": 600.0,
+      "description": "September SEO",
+      "date": 1633104765,
+      "status": "succeeded"
+    },
+    {
+      "amount": 225.0,
+      "description": null,
+      "date": 1630618431,
+      "status": "succeeded"
+    },
+    {
+      "amount": 225.0,
+      "description": null,
+      "date": 1630618383,
+      "status": "failed"
+    }
+  ],
+  "lastUpdated": "2026-04-02T03:44:18Z"
 }

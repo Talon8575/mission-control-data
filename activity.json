@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-04-02T01:00:08Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udcb0",
+    "action": "CRON",
+    "detail": "Sales Check: No new sales in last 24h",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-04-01T23:00:04Z",
     "agent": "Talon",
     "emoji": "\ud83d\udc26",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: All 10 recent deployments READY (midsouth-transitions v13 latest, 0 failures detected)",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-25T01:30:12Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\udd27",
-    "action": "CRON",
-    "detail": "Model Health Check: Both providers healthy \u2014 Claude Max token active (static), OpenRouter valid (.66 monthly usage)",
     "type": "success"
   }
 ]

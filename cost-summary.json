@@ -1,0 +1,41 @@
+{
+  "period": "2026-04",
+  "lastUpdated": "2026-04-02T03:00:04Z",
+  "agents": {
+    "talon": {
+      "total_cents": 20856,
+      "total": "$208.56",
+      "claude_max": "$200.00",
+      "openrouter": "$8.56",
+      "budget_cents": 30000,
+      "budget": "$300.00",
+      "pct_of_budget": "70%"
+    },
+    "ralph": {
+      "total_cents": 20000,
+      "total": "$200.00",
+      "chatgpt_pro": "$200.00",
+      "budget_cents": 20000,
+      "budget": "$200.00",
+      "pct_of_budget": "100%"
+    },
+    "other": {
+      "total_cents": 0,
+      "total": "$0.00",
+      "note": "Run on Talon's OpenRouter allocation"
+    },
+    "tools": {
+      "total_cents": 4900,
+      "total": "$49.00",
+      "zernio": "$49.00",
+      "note": "Zernio Accelerate plan"
+    }
+  },
+  "grand_total_cents": 45756,
+  "grand_total": "$457.56",
+  "company_budget_cents": 55000,
+  "company_budget": "$550.00",
+  "pct_of_budget": "92%",
+  "openrouter_daily": "$0.63",
+  "openrouter_daily_limit": "$10.00"
+}

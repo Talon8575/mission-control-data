@@ -1,50 +1,58 @@
 [
   {
-    "name": "Talon",
-    "emoji": "\ud83e\udd85",
-    "role": "CEO / Orchestrator",
-    "model": "opus",
+    "name": "Morning Brief",
+    "emoji": "\ud83e\udd16",
+    "role": "general",
+    "model": "?",
     "status": "running",
-    "lastTask": "All 5 agents dispatched + completed \u2014 Mission Control live"
+    "lastHeartbeat": "2026-04-01T17:36:47.561Z"
   },
   {
-    "name": "Viper",
-    "emoji": "\ud83d\udc0d",
-    "role": "Market Intelligence",
-    "model": "haiku",
-    "status": "idle",
-    "lastTask": "Competitive intel delivered: Top 5 healthcare AI agencies analyzed"
+    "name": "Newsletter Engine",
+    "emoji": "\ud83e\udd16",
+    "role": "general",
+    "model": "?",
+    "status": "running",
+    "lastHeartbeat": "2026-04-01T17:37:01.893Z"
   },
   {
-    "name": "Hawk",
-    "emoji": "\ud83e\udd85",
-    "role": "Healthcare Sales",
-    "model": "sonnet",
+    "name": "Email Ops",
+    "emoji": "\ud83e\udd16",
+    "role": "general",
+    "model": "?",
     "status": "idle",
-    "lastTask": "Cold email sequence finalized \u2014 4-step + 5 A/B variants + objection handler"
+    "lastHeartbeat": "2026-04-02T03:39:29.360Z"
   },
   {
-    "name": "Echo",
-    "emoji": "\ud83d\udce1",
-    "role": "Content Engine",
-    "model": "sonnet",
-    "status": "idle",
-    "lastTask": "Week 2 newsletter drafted \u2014 building in public, real metrics"
+    "name": "Talon",
+    "emoji": "\ud83e\udd16",
+    "role": "ceo",
+    "model": "?",
+    "status": "error",
+    "lastHeartbeat": "2026-04-02T03:40:29.520Z"
   },
   {
-    "name": "Scout",
-    "emoji": "\ud83d\udd2d",
-    "role": "Property Scanner",
-    "model": "haiku",
+    "name": "Zernio Content Engine",
+    "emoji": "\ud83e\udd16",
+    "role": "cmo",
+    "model": "?",
     "status": "idle",
-    "lastTask": "Property scan: 10 deals in AR/OK/LA, top 3 actionable targets"
+    "lastHeartbeat": "2026-04-02T03:37:29.491Z"
   },
   {
-    "name": "Apex",
-    "emoji": "\ud83c\udfd4\ufe0f",
-    "role": "Men's Health",
-    "model": "sonnet",
+    "name": "Revenue Monitor",
+    "emoji": "\ud83e\udd16",
+    "role": "cfo",
+    "model": "?",
     "status": "idle",
-    "lastTask": "OK Men's Health: 30-day content calendar + 3 blog drafts"
+    "lastHeartbeat": "2026-04-02T01:37:30.707Z"
+  },
+  {
+    "name": "Ralph",
+    "emoji": "\ud83e\udd16",
+    "role": "engineer",
+    "model": "?",
+    "status": "idle",
+    "lastHeartbeat": "2026-04-02T03:15:43.656Z"
   }
 ]

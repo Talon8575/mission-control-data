@@ -1,8 +1,9 @@
 {
-  "gateway": "1
-running",
+  "gateway": "Service: LaunchAgent (loaded)",
   "n8n": "running",
-  "openRouterBalance": 29.05,
-  "lcmDatabaseSize": "",
-  "uptime": "18 days"
+  "openRouterUsage": 312.78678623,
+  "openRouterBalance": -302.78678623,
+  "uptime": "748 days",
+  "lcmDatabaseSize": "?",
+  "lastUpdated": "2026-04-02T03:44:20Z"
 }

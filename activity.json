@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-04-04T13:05:21Z",
+    "agent": "Talon",
+    "emoji": "\ud83d\udc1b",
+    "action": "CRON",
+    "detail": "Sentry: Auto-Triage Pipeline: 1 TypeError found; already fixed (commit 8e4634e, 2026-04-03)",
+    "type": "success"
+  },
+  {
     "timestamp": "2026-04-04T13:04:02Z",
     "agent": "Talon",
     "emoji": "\ud83d\udc1b",
@@ -389,14 +397,6 @@
     "emoji": "\ud83d\ude80",
     "action": "CRON",
     "detail": "Vercel Deploy Monitor: 10/10 deployments READY, no errors detected",
-    "type": "success"
-  },
-  {
-    "timestamp": "2026-03-25T02:30:40Z",
-    "agent": "Talon",
-    "emoji": "\ud83d\ude80",
-    "action": "CRON",
-    "detail": "Vercel Deploy Monitor: 1 deployment checked, READY/PROMOTED on production \u2014 no errors",
     "type": "success"
   }
 ]
